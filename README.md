@@ -1,209 +1,161 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Standardized Test Analysis
 
-### Overview
-
-Our first module in DSI covers:
-- Basic statistics and probability
-- Many Python programming concepts
-- Programmatically interacting with files and directories
-- Visualizations
-- EDA
-- Working with Jupyter notebooks for development and reporting
-
-You might wonder if you're ready to start doing data science. While you still have **tons** to learn, there are many aspects of the data science process that you're ready to tackle. Project 1 aims to allow you to practice and demonstrate these skills.
-
-For our first project, we're going to take a look at aggregate SAT and ACT scores and participation rates in the United States. We'll seek to identify trends in the data and combine our data analysis with outside research to address our problem statement.
-
-The SAT and ACT are standardized tests that many colleges and universities in the United States require for their admissions process. This score is used along with other materials such as grade point average (GPA) and essay responses to determine whether or not a potential student will be accepted to the university.
-
-The SAT has two sections of the test: Evidence-Based Reading and Writing and Math ([*source*](https://www.princetonreview.com/college/sat-sections)). The ACT has 4 sections: English, Mathematics, Reading, and Science, with an additional optional writing section ([*source*](https://www.act.org/content/act/en/products-and-services/the-act/scores/understanding-your-scores.html)). They have different score ranges, which you can read more about on their websites or additional outside sources (a quick Google search will help you understand the scores for each test):
-* [SAT](https://collegereadiness.collegeboard.org/sat)
-* [ACT](https://www.act.org/content/act/en.html)
-
-Standardized tests have long been a controversial topic for students, administrators, and legislators. Since the 1940's, an increasing number of colleges have been using scores from sudents' performances on tests like the SAT and the ACT as a measure for college readiness and aptitude ([*source*](https://www.minotdailynews.com/news/local-news/2017/04/a-brief-history-of-the-sat-and-act/)). Supporters of these tests argue that these scores can be used as an objective measure to determine college admittance. Opponents of these tests claim that these tests are not accurate measures of students potential or ability and serve as an inequitable barrier to entry.
 
 ### Problem Statement
 
-Generally speaking, you will be asked to come up with a data science problem. This problem is ultimately up to you, but below are some guidelines/things to consider when crafting a problem statement:
-> 1. Consider your audience. Who is your project going to help? Who will your presentation be geared towards? Establishing your audience first can help you narrow down your scope.
-> 2. Consider the data you will use. Based on the contents of this data, think about some questions you could reasonably answer. These questions should aim to solve some kind of problem.
-> 3. Based on these questions, what would bring some kind value to your audience? This can be business insights, increase sales, make decisions, etc.
-> 4. Put everything from the above steps together into a few sentences that describe the specific problem you are trying to solve and who it will benefit.
-> [Here is a blog post](https://towardsdatascience.com/defining-a-data-science-problem-4cbf15a2a461) about crafting a data science problem statement.
+This project aims to use ACT testing scores for Math and Science from 2019 to analyze California’s current ability to produce college ready STEM graduates in regard to national standing and local output while highlighting a few of the districts that may struggle to produce adequate achievement in Math and Science.
 
-Here are some example prompts if you need inspiration:
-> * The new format for the SAT was released in March 2016. As an employee of the College Board - the organization that administers the SAT - you are a part of a team that tracks statewide participation and recommends where money is best spent to improve SAT participation rates. Your presentation and report should be geared toward non-technical executives with the College Board and you will use the provided data and outside research to make recommendations about how the College Board might work to increase the participation rate in a *state of your choice*.
-> * You work for a school district that has asked you to advise their high school students on what SAT or ACT score they should be aiming for based on their intended area of study or school preferences.
-> * You are hired by the state of California to analyze standardized test performance for various districts in the state and identify trends so they can allocate resources appropriately.
-> * Lately, more and more schools are opting to drop the SAT/ACT requirement for their Fall 2021 applications ([*read more about this here*](https://www.cnn.com/2020/04/14/us/coronavirus-colleges-sat-act-test-trnd/index.html)). You are hired by a college to advise their admissions team on why this should or should not continue beyond the Fall 2021 applications. (Note: problem statements related to this prompt may not be reasonable to answer just using the data provided. If you want to tackle this one, you may need to find additional data online.)
-> * *Feel free to be creative with your own prompt!*
+The project will answer three questions: Where does California stand in producing college ready STEM graduates? In what regions can we diversify and improve our college ready STEM population and how do we improve those regions?
 
-And here are some example problem statements related to the above prompts. Come up with your own or modify these for your needs, do not just copy the ones given here:
-> * The new format for the SAT was released in March 2016. Since then, levels of participation in multiple states have changed with varying legislative decisions. This project aims to explore trends in SAT and ACT participation for the years 2017-2019 and seeks to identify states that have decreasing SAT participation rates.
-> * High school students often know which colleges they would like to consider, but rarely know what SAT or ACT score they should aim for when applying to these colleges. We wish to explore the schools that have the highest and lowest SAT and ACT score requirements and see if there is a relationship between college prestige and test scores.
-> * The state of California has many school districts. This project aims to identify the districts that have the worst overall student performance on the SAT and ACT tests so the state can recommend programs and allocate resources to these districts in need. 
-> * We hypothesize that student performance on these tests is not an indicator of overall academic performance. This project seeks to see if a relationship exists between student GPA and SAT/ACT scores to support or oppose the continuation of these tests as a requirement for college applications.
-> * *Feel free to be creative with your own problem statement!*
+--
 
----
+### Background
 
-### Datasets
+Governor Gavin Newsome and The State Superintendent of Public Instruction Tony Thurmond have emphasized that The State of California needs to improve upon California’s past successes in STEM education. STEM industries that rely on a foundation of talent knowledgable in Science, Technology, English and Math (STEM) are an important part of California's economy and future. Historically, the state has been known as a national and internationl leader in STEM education and industry. It is Governor Newsome’s desire to tighten focus on that strength and to compound the state’s prowess in STEM.
 
-#### Provided Data
+Using the ACT test as a benchmark the state would like a report on the state’s current position nationally in producing college ready graduates into STEM programs. Governor Newsome would like additional analysis featuring district profiles that may struggle to achieve high standards of college readiness in STEM. These findings will be presented to the California STEAM Symposium in December, 2020. so that they may be able to relate these findings to Local Education Agencies (LEA’s) for the use of these findings when constructing their Local Control and Accountability Plans.
 
-There are 10 datasets included in the [`data`](./data/) folder for this project. You are required to pick **at least two** of these to complete your analysis. Feel free to use more than two if you would like, or add other relevant datasets you find online.
+##### Background on the ACT
+
+The ACT is a standardized test that is often required for admission into many colleges and universities in the United States. The ACT is particularly friendly for measuring STEM readiness because it offers both a math and science portion of the test.
+
+https://www.act.org/content/act/en.html
+
+##### Recent STEM initiatives of Governor Newsom are detailed here:
+
+Governor Newsom proposes new investments into math and science teachers
+
+https://www.ppic.org/blog/governor-newsom-proposes-new-investments-in-math-and-science-teachers/ 
+
+Newsom proposes 1 Billion dollars to tackle teacher shortages
+
+https://edsource.org/2020/california-governor-proposes-nearly-1-billion-to-end-teacher-shortage/621952 
+
+"The governor’s office will use data on student access to technology and STEM education... to help create the plan with the help of the new computer science coordinator.'
+
+https://edsource.org/2019/state-budget-proposal-would-fund-computer-science-czar-broadband-expansion/612434
+
+
+##### Background on the STEAM Symposium
+
+The California Steam Symposium brings together thousands of educators, administrators, industry representatives and philantropists to discuss best practices and implementation for advancing STEM education in California.  
+
+https://web.cvent.com/event/d4865dc7-c884-458a-b52b-776b799d6ad0/websitePage:c5e8e93a-c9f7-42ea-afa7-09b89fb06b28?RefId=steamcalifornia.org
+
+--
+
+## Data Dictionary for California Data Set
+
+|Feature|Type|Dataset|Description|
+|---|---|---|---|
+|school|object|CA State ACT Data 2019|The smallest categorical value. A school is within a CA district|
+|district|object|CA State ACT Data 2019|A collection of one or more schools in close regional proximity|
+|county|object|CA State ACT Data 2019|A collection of districts in close regional proximity|
+|g12_enroll|float|CA State ACT Data 2019|Number of students enrolled in G12 per Local Education Agency (LEA)|
+|num_tested|float|CA State ACT Data 2019|Number of students tested per Local Education Agency (LEA)|
+|avg_read|float|CA State ACT Data 2019|Average per school score for reading portion of ACT|
+|avg_eng|float|CA State ACT Data 2019|Average per school score for english portion of ACT|
+|avg_math|float|CA State ACT Data 2019|Average per school score for math portion of ACT|
+|avg_sci|float|CA State ACT Data 2019|Average per school score for science portion of ACT|
+|num_21_plus|float|CA State ACT Data 2019|Number per school of ACT composite score greater than 21|
+|pct_21_plus|float|CA State ACT Data 2019|Percent per school of ACT composite score greater than 21|
+
+--
+
+## Data Dictionary for National Data Set
+
+|Feature|Type|Dataset|Description|
+|---|---|---|---|
+|state|object|National ACT Data 2017 and 2019|U.S. States participating in ACT tests|
+|participation|float|National ACT Data 2017 and 2019|ACT participation rates for U.S. States|
+|avg_eng|float|National ACT Data 2017 and 2019|AVG per state score for english portion of ACT|
+|avg_math|float|National ACT Data 2017 and 2019|AVG per state score for math portion of ACT|
+|avg_read|float|National ACT Data 2017 and 2019|AVG per state score for reading portion of ACT |
+|avg_sci|float|National ACT Data 2017 and 2019|AVG per state score for science portion of ACT|
+|composite|float|National ACT Data 2017 and 2019|Ave composite score per state|
+|year|int|National ACT Data 2017 and 2019|Year of participation in ACT| 
+
+--
+
+## Findings on Trends in CA ACT Data
+
+#### District Level Analysis
+
+While investigating the data I decided to focus on the district level in my research. I felt the school level was too vast considering the scope of this project and the County level, although rich with data, may not be targeted enough. I assumed that if I found something interesting I could dive down to school level data or jump up to county level and if provided more time it would likely be fruitful to do both. 
+
+#### District Size and Poor Performance
+In the district level data it was hard to observe any notable relationship within the initial features of the dataframe. I did notice that there was a pretty significant spread in average scores so I decided to drop down to the lowest levels of scores to find relationships. After drilling down to 21 districts who scored below the 10th percentile in both math and science I found that they seemed to mostly be smaller schools and largely in rural districts and some in economically disadvantaged districts. If I spent more time on this I would look at more segments of the population including the upper 10 percent and the middle 50 percent among others. 
+
+--
+
+## Findings on Trends in National ACT Data
+
+* Looks to be a strong negative correlation between avg scores and participation.This matches up with the anecdotal evidence.
+* English math and reading are very highly correlated with each other. 
+* Science is significantly less correlated to the other scores but an elevated correlation does exist. 
+
+--
+
+## Conclusions and Recommendations Regarding the California State Notebook
+
+When LAU was included in the Averages there seemed to be no relationship between large and small. After LAU was eliminated the largest 6 to 10 districts failed to reach the mean average but somehow the regression line showed up upward relationship with larger districts. It is my theory that districts in the 1000 to 3500 12th grade enrollment range have a higher average score and that once districts exceed that range score tends to decrease. It is also seen in the under 3500 chart that smaller districts are more plentiful but also have a bit a drag on the average score. 
+
+When you drive down to the school level as does the chart only analyzing LAU does you begin to see a story of small schools driving down the average. So we have two trends, small districts seem to be driving down the score and small schools in large districts seem to be driving down the score. 
+
+I need to dig more into this but most of the smaller districts come from rural and industrial areas and the small schools in the large districts likely come from impoverished areas in their respective districts. Due the size of the education system at the county and district levels these schools and districts may be being overlooked. 
+
+Because of this it is recommended that the State of California reconsider it's districting to account for size and special needs of underprivileged or rural schools. 
+
+--
+
+## Conclusions and Recommendations Regarding National Notebook
+
+The National ACT data is used here to supplement an analysis on California State Data. Therefore a broad-based analysis is not warranted in this notebook. In light of that, however, it is seen by studying California's position in Math and Science ACT scores in 2017 and 2019 that California ranks near the top in terms of average score. Anecdotal evidence indicates that this is due to california's low testing percentage (23%). Anecdotal evidence also indicates that as testing percentage increases average score decreases. Therefore, if California tested at the same rate as its peers (some testing as high as 100 percent) the state would likely see it's average score decrease. 
+
+There is also room for improvment in regards to current national standing. California is widely viewed as a national and international leader in STEM industries yet ranks 15th overall in Math and Science ACT scores.
+
+--
+
+## Datasets
+
 
 * [`act_2017.csv`](./data/act_2017.csv): 2017 ACT Scores by State ([source](https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows))
-* [`act_2018.csv`](./data/act_2018.csv): 2018 ACT Scores by State ([source](https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows))
-* [`act_2019.csv`](./data/act_2019.csv): 2019 ACT Scores by State ([source](https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows))
-* [`act_2019_ca.csv`](./data/act_2019_ca.csv): 2019 ACT Scores in California by School ([source](https://www.cde.ca.gov/ds/sp/ai/) | [data dictionary](https://www.cde.ca.gov/ds/sp/ai/reclayoutact19.asp))
-* [`sat_2017.csv`](./data/sat_2017.csv): 2017 SAT Scores by State ([source](https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/))
-* [`sat_2018.csv`](./data/sat_2018.csv): 2018 SAT Scores by State ([source](https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/))
-* [`sat_2019.csv`](./data/sat_2019.csv): 2019 SAT Scores by State ([source](https://blog.prepscholar.com/average-sat-scores-by-state-most-recent))
-* [`sat_2019_by_intended_college_major.csv`](./data/sat_2019_by_intended_college_major.csv): 2019 SAT Scores by Intended College Major ([source](https://reports.collegeboard.org/pdf/2019-total-group-sat-suite-assessments-annual-report.pdf))
-* [`sat_2019_ca.csv`](./data/sat_2019_ca.csv): 2019 SAT Scores in California by School ([source](https://www.cde.ca.gov/ds/sp/ai/) | [data dictionary](https://www.cde.ca.gov/ds/sp/ai/reclayoutsat19.asp))
-* [`sat_act_by_college.csv`](./data/sat_act_by_college.csv): Ranges of Accepted ACT & SAT Student Scores by Colleges ([source](https://www.compassprep.com/college-profiles/))
+* [`act_2019_part.csv`](./data/act_2019_part.csv): 2019 ACT Scores by State with Participation Rates ([source](https://nces.ed.gov/programs/digest/d19/tables/dt19_226.60.asp)
+* [`sat_2019_ca.csv`](./data/sat_2019_ca.csv): 2019 SAT Scores in California by School ([source](https://www.cde.ca.gov/ds/sp/ai/) | [data dictionary]
 
-**Make sure you cross-reference your data with your data sources to eliminate any data collection or data entry issues.**
+--
 
-#### Additional Data
-You are welcome to add any other data sources you find online to support your analysis, but this is **not required**.
+## Outside Research
 
----
+Average ACT Scores Drop As Participation Increases:
+https://www.insidehighered.com/news/2016/08/24/average-act-scores-drop-more-people-take-test
 
-### Deliverables
+ACT Scores in Ohio Drop as Participation Rate Increases as a result of a mandate:
 
-All of your projects will comprise of a written technical report and a presentation. As we continue in the course, your technical report will grow in complexity, but for this initial project it will comprise:
-- A Jupyter notebook that describes your data with visualizations & statistical analysis.
-- A README markdown file the provides an introduction to and overview of your project.
-- Your presentation slideshow rendered as a .pdf file.
-**NOTE**: Your entire Github repository will be evaluated as your technical report. Make sure that your files and directories are named appropriately, that all necessary files are included, and that no unnecessary or incomplete files are included.
+"the changes can be attributed largely to the increasing number of students taking the test. Among the class of 2017, ACT estimates that 75 percent took the test. But thanks to a change in state policy that required all juniors to take either the ACT or the SAT, this year’s percentage was much higher."
 
-For your first presentation, you'll be presenting to a **non-technical** audience. You should prepare a slideshow with appropriately scaled visuals to complement a compelling narrative. **Presentation duration will differ by market, so check with your local instructor.**
+https://fordhaminstitute.org/ohio/commentary/ohios-average-act-score-dropped-thats-not-bad-thing
 
----
 
-### Technical Report Starter Code
+California Ranked 16th from bottom in overall education spending
+https://www.governing.com/topics/education/gov-education-funding-states.html
 
-Future projects will require you to decide on the entire structure of your technical report. Here, we provide you with [starter code](./code/starter-code.ipynb) in a Jupyter notebook that will help to guide your data exploration and analysis. **If you choose to edit the core structure of this notebook, make sure you don't exclude any of the requested operations**.
+California's participation rate in ACT for 2019 is 23%
+https://www.act.org/content/dam/act/unsecured/documents/National-CCCR-2019.pdf
 
----
+"California’s future STEM educator pipeline may be in danger—only 273 students planned to enter math education, and only 96 science education."
 
-### Style Guide and Suggested Resources
+Moreover, "the future of STEM qualified candidates looks potentially weak as well."
 
-[Tim Dwyer](https://www.linkedin.com/in/jtimdwyer/) (former DSI student and TA) put together [this style guide](https://git.generalassemb.ly/DSI-US-13/style_guide). Some recommendations are geared toward future projects (which will include modeling and span multiple notebooks), but generally these are great recommendations.
+"Research indicates only 20% of students had both an expressed and measured interest in a STEM career." (their ACT Interest Inventory score pointed to a STEM field).
+https://www.act.org/content/dam/act/unsecured/documents/STEM/2017/California-State-of-STEM-2017.pdf
 
-Here's a link on [how to give a good lightning talk](https://www.semrush.com/blog/16-ways-to-prepare-for-a-lightning-talk/), which provides some good recommendations for short presentations.
+ACT test takers who are interested in STEM, scored around 50 % higher on college readiness benchmarks than test-takers not interested in STEM. 
+https://www.act.org/content/dam/act/unsecured/documents/National-CCCR-2019.pdf
 
-[Here's a great summary](https://towardsdatascience.com/storytelling-with-data-a-data-visualization-guide-for-business-professionals-97d50512b407) of the main points of the book _Storytelling with Data_, which I can't recommend enough. [Here's a blog post](http://www.storytellingwithdata.com/blog/2017/8/9/my-guiding-principles) by the author about his guiding principles for visualizations.
+Create Culture and use Family STEM Nights was inspired by:
+https://www.earlymathca.org/engaging-families-in-early-math-a-f
+
 
 ---
 
-### Submission
-
-**Materials must be submitted on September 25.**
-
-Your technical report will be hosted on Github Enterprise. Make sure it includes:
-
-- A README.md (that isn't this file)
-- Jupyter notebook(s) with your analysis (renamed to describe your project)
-- Data files
-- Presentation slides
-- Any other necessary files (images, etc.)
-
-**Check with your local instructor for how they would like you to submit your repo for review.**
-
----
-
-### Presentation Structure
-
-- **Must be within time limit established by local instructor.**
-- Use Google Slides or some other visual aid (Keynote, Powerpoint, etc).
-- Consider the audience. Assume you are presenting to a non-technical audience (executives with the College Board, school administrators, admissions counselors, State officials, etc.).
-- Start with the **data science problem**.
-- Use visuals that are appropriately scaled and interpretable.
-- Talk about your procedure/methodology (high level, **CODE IS ALWAYS INAPPROPRIATE FOR A NON-TECHNICAL AUDIENCE**).
-- Talk about your primary findings.
-- Make sure you provide **clear recommendations** that follow logically from your analyses and narrative and answer your data science problem.
-
-Be sure to rehearse and time your presentation before class.
-
----
-
-### Rubric
-Your local instructor will evaluate your project (for the most part) using the following criteria.  You should make sure that you consider and/or follow most if not all of the considerations/recommendations outlined below **while** working through your project.
-
-**Scores will be out of 21 points based on the 7 items in the rubric.** <br>
-*3 points per section*<br>
-
-| Score | Interpretation |
-| --- | --- |
-| **0** | *Project fails to meet the minimum requirements for this item.* |
-| **1** | *Project meets the minimum requirements for this item, but falls significantly short of portfolio-ready expectations.* |
-| **2** | *Project exceeds the minimum requirements for this item, but falls short of portfolio-ready expectations.* |
-| **3** | *Project meets or exceeds portfolio-ready expectations; demonstrates a thorough understanding of every outlined consideration.* |
-
-**Project Organization**
-- Are modules imported correctly (using appropriate aliases)?
-- Are data imported/saved using relative paths?
-- Does the README provide a good executive summary of the project?
-- Is markdown formatting used appropriately to structure notebooks?
-- Are there an appropriate amount of comments to support the code?
-- Are files & directories organized correctly?
-- Are there unnecessary files included?
-- Do files and directories have well-structured, appropriate, consistent names?
-
-**Clarity of Message**
-- Is the problem statement clearly presented?
-- Does a strong narrative run through the project?
-- Does the student provide appropriate context to connect individual steps back to the overall project?
-- Is it clear how the final recommendations were reached?
-- Are the conclusions/recommendations clearly stated?
-
-**Python Syntax and Control Flow**
-- Is care taken to write human readable code?
-- Is the code syntactically correct (no runtime errors)?
-- Does the code generate desired results (logically correct)?
-- Does the code follows general best practices and style guidelines?
-- Are Pandas functions used appropriately?
-- Does the student demonstrate mastery masking in Pandas?
-- Does the student demonstrate mastery sorting in Pandas?
-
-**Data Cleaning and EDA**
-- Does the student fix data entry issues?
-- Are data appropriately labeled?
-- Are data appropriately typed?
-- Are datasets combined correctly?
-- Are appropriate summary statistics provided?
-- Are steps taken during data cleaning and EDA framed appropriately?
-
-**Visualizations**
-- Are the requested visualizations provided?
-- Do plots accurately demonstrate valid relationships?
-- Are plots labeled properly?
-- Plots interpreted appropriately?
-- Are plots formatted and scaled appropriately for inclusion in a notebook-based technical report?
-
-**Research and Conceptual Understanding**
-- Were useful insights gathered from outside sources?
-- Are sources clearly identified?
-- Does the student provide appropriate interpretation with regards to descriptive and inferential statistics?
-
-**Presentation**
-- Is the problem statement clearly presented?
-- Does a strong narrative run through the presentation building toward a final conclusion?
-- Are the conclusions/recommendations clearly stated?
-- Is the level of technicality appropriate for the intended audience?
-- Is the student substantially over or under time?
-- Does the student appropriately pace their presentation?
-- Does the student deliver their message with clarity and volume?
-- Are appropriate visualizations generated for the intended audience?
-- Are visualizations necessary and useful for supporting conclusions/explaining findings?
-
-In order to pass the project, students must earn a minimum score of 1 for each category.
-- Earning below a 1 in one or more of the above categories would result in a failing project.
-- While a minimum of 1 in each category is the required threshold for graduation, students should aim to earn at least an average of 1.5 across each category. An average score below 1.5, while it may be passing, means students may want to solicit specific feedback in order to significantly improve the project before showcasing it as part of a portfolio or the job search.
-
-### REMEMBER:
-
-This is a learning environment and you are encouraged to try new things, even if they don't work out as well as you planned! While this rubric outlines what we look for in a _good_ project, it is up to you to go above and beyond to create a _great_ project. **Learn from your failures and you'll be prepared to succeed in the workforce**.

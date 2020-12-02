@@ -1,0 +1,1017 @@
+,school,district,county,g12_enroll,num_tested,avg_read,avg_eng,avg_math,avg_sci,num_21_plus,pct_21_plus
+0,Abraham Lincoln High,San Jose Unified,Santa Clara,463.0,53.0,23.0,22.0,22.0,23.0,34.0,64.15
+1,Abraham Lincoln Senior High,Los Angeles Unified,Los Angeles,226.0,19.0,21.0,20.0,23.0,22.0,11.0,57.89
+2,Academia Avance Charter,SBE - Academia Avance Charter,Los Angeles,65.0,33.0,15.0,15.0,17.0,16.0,3.0,9.09
+3,Academies of Education and Empowerment at Carson High,Los Angeles Unified,Los Angeles,126.0,16.0,18.0,18.0,18.0,17.0,5.0,31.25
+4,Academy of the Canyons,William S. Hart Union High,Los Angeles,104.0,36.0,29.0,29.0,25.0,25.0,34.0,94.44
+5,Acalanes High,Acalanes Union High,Contra Costa,353.0,99.0,29.0,29.0,28.0,27.0,93.0,93.94
+6,ACE Charter High,East Side Union High,Santa Clara,41.0,34.0,14.0,14.0,15.0,15.0,1.0,2.94
+7,Adelanto High,Victor Valley Union High,San Bernardino,430.0,28.0,19.0,17.0,18.0,18.0,8.0,28.57
+8,Adolfo Camarillo High,Oxnard Union High,Ventura,507.0,91.0,23.0,23.0,23.0,22.0,55.0,60.44
+9,Adrian Wilcox High,Santa Clara Unified,Santa Clara,458.0,138.0,25.0,24.0,24.0,24.0,93.0,67.39
+10,Agoura High,Las Virgenes Unified,Los Angeles,459.0,140.0,27.0,26.0,25.0,24.0,114.0,81.43
+11,Alain Leroy Locke College Preparatory Academy,Los Angeles Unified,Los Angeles,382.0,112.0,14.0,14.0,16.0,15.0,7.0,6.25
+12,Alameda High,Alameda Unified,Alameda,463.0,93.0,28.0,27.0,27.0,26.0,85.0,91.4
+13,Albany High,Albany City Unified,Alameda,296.0,58.0,28.0,27.0,27.0,26.0,51.0,87.93
+14,Alexander Hamilton Senior High,Los Angeles Unified,Los Angeles,585.0,139.0,23.0,23.0,21.0,21.0,75.0,53.96
+15,Alhambra High,Alhambra Unified,Los Angeles,648.0,93.0,24.0,25.0,24.0,23.0,69.0,74.19
+16,Alhambra Senior High,Martinez Unified,Contra Costa,284.0,40.0,25.0,23.0,25.0,23.0,30.0,75.0
+17,Alisal High,Salinas Union High,Monterey,651.0,206.0,18.0,17.0,18.0,18.0,47.0,22.82
+18,Aliso Niguel High,Capistrano Unified,Orange,749.0,286.0,26.0,27.0,27.0,26.0,254.0,88.81
+19,Alliance Alice M. Baxter College-Ready High,Los Angeles Unified,Los Angeles,61.0,77.0,17.0,16.0,17.0,18.0,12.0,15.58
+20,Alliance Cindy and Bill Simon Technology Academy High,Los Angeles Unified,Los Angeles,123.0,155.0,15.0,14.0,16.0,16.0,13.0,8.39
+21,Alliance Collins Family College-Ready High,Los Angeles Unified,Los Angeles,141.0,70.0,18.0,20.0,19.0,18.0,19.0,27.14
+22,Alliance Dr. Olga Mohan High,Los Angeles Unified,Los Angeles,101.0,80.0,16.0,16.0,18.0,17.0,14.0,17.5
+23,Alliance Judy Ivie Burton Technology Academy High,Los Angeles Unified,Los Angeles,138.0,162.0,16.0,16.0,17.0,17.0,24.0,14.81
+24,Alliance Leichtman-Levine Family Foundation Environmental Science High,Los Angeles Unified,Los Angeles,128.0,155.0,18.0,18.0,18.0,18.0,40.0,25.81
+25,Alliance Marc & Eva Stern Math and Science,Los Angeles Unified,Los Angeles,141.0,157.0,19.0,18.0,19.0,19.0,48.0,30.57
+26,Alliance Margaret M. Bloomfield Technology Academy High,Los Angeles Unified,Los Angeles,114.0,139.0,17.0,16.0,16.0,16.0,19.0,13.67
+27,Alliance Morgan McKinzie High,Los Angeles Unified,Los Angeles,73.0,86.0,15.0,13.0,16.0,16.0,7.0,8.14
+28,Alliance Ouchi-O'Donovan 6-12 Complex,Los Angeles Unified,Los Angeles,130.0,148.0,15.0,14.0,16.0,16.0,16.0,10.81
+29,Alliance Patti And Peter Neuwirth Leadership Academy,Los Angeles Unified,Los Angeles,131.0,164.0,16.0,14.0,17.0,16.0,18.0,10.98
+30,Alliance Piera Barbaglia Shaheen Health Services Academy,Los Angeles Unified,Los Angeles,105.0,143.0,15.0,13.0,15.0,15.0,4.0,2.8
+31,Alliance Renee and Meyer Luskin Academy High,Los Angeles Unified,Los Angeles,131.0,147.0,16.0,14.0,16.0,16.0,12.0,8.16
+32,Alliance Ted K. Tajima High,Los Angeles Unified,Los Angeles,59.0,110.0,17.0,16.0,18.0,17.0,24.0,21.82
+33,Alliance Tennenbaum Family Technology High,Los Angeles Unified,Los Angeles,89.0,89.0,15.0,14.0,16.0,16.0,10.0,11.24
+34,Alta Loma High,Chaffey Joint Union High,San Bernardino,634.0,56.0,23.0,22.0,22.0,22.0,34.0,60.71
+35,Amador High,Amador County Unified,Amador,154.0,17.0,25.0,25.0,25.0,24.0,16.0,94.12
+36,Amador Valley High,Pleasanton Unified,Alameda,654.0,280.0,29.0,29.0,28.0,28.0,258.0,92.14
+37,American Canyon High,Napa Valley Unified,Napa,412.0,41.0,23.0,23.0,24.0,24.0,31.0,75.61
+38,American High,Fremont Unified,Alameda,538.0,136.0,29.0,30.0,30.0,29.0,126.0,92.65
+39,Anaheim High,Anaheim Union High,Orange,722.0,66.0,19.0,18.0,19.0,19.0,23.0,34.85
+40,Analy High,West Sonoma County Union High,Sonoma,262.0,33.0,27.0,27.0,25.0,24.0,27.0,81.82
+41,Anderson W. Clark Magnet High,Glendale Unified,Los Angeles,224.0,21.0,26.0,27.0,26.0,25.0,18.0,85.71
+42,Andrew P. Hill High,East Side Union High,Santa Clara,450.0,26.0,23.0,22.0,23.0,23.0,17.0,65.38
+43,Angelo Rodriguez High,Fairfield-Suisun Unified,Solano,423.0,52.0,25.0,24.0,23.0,24.0,37.0,71.15
+44,Animo College Preparatory Academy,Los Angeles Unified,Los Angeles,128.0,35.0,16.0,17.0,17.0,18.0,6.0,17.14
+45,Animo Inglewood Charter High,Inglewood Unified,Los Angeles,145.0,99.0,18.0,17.0,18.0,18.0,22.0,22.22
+46,Animo Jackie Robinson High,Los Angeles Unified,Los Angeles,148.0,58.0,17.0,15.0,18.0,17.0,10.0,17.24
+47,Animo Leadership High,Lennox,Los Angeles,153.0,127.0,16.0,15.0,17.0,17.0,13.0,10.24
+48,Animo Pat Brown,Los Angeles Unified,Los Angeles,131.0,120.0,15.0,15.0,17.0,16.0,15.0,12.5
+49,Animo Venice Charter High,Los Angeles Unified,Los Angeles,132.0,86.0,17.0,16.0,17.0,17.0,18.0,20.93
+50,Animo Watts College Preparatory Academy,Los Angeles Unified,Los Angeles,128.0,21.0,19.0,18.0,18.0,17.0,8.0,38.1
+51,Ann Sobrato High,Morgan Hill Unified,Santa Clara,292.0,83.0,25.0,24.0,25.0,24.0,69.0,83.13
+52,Antelope High,Roseville Joint Union High,Placer,442.0,92.0,23.0,22.0,22.0,22.0,61.0,66.3
+53,Antelope Valley High,Antelope Valley Union High,Los Angeles,454.0,18.0,21.0,18.0,17.0,19.0,4.0,22.22
+54,Antioch High,Antioch Unified,Contra Costa,456.0,50.0,20.0,18.0,18.0,19.0,15.0,30.0
+55,APEX Academy,Los Angeles Unified,Los Angeles,82.0,30.0,15.0,13.0,15.0,15.0,0.0,0.0
+56,Apple Valley High,Apple Valley Unified,San Bernardino,551.0,55.0,22.0,22.0,20.0,21.0,30.0,54.55
+57,Applied Technology Center,Montebello Unified,Los Angeles,123.0,26.0,20.0,18.0,16.0,18.0,6.0,23.08
+58,Aptos High,Pajaro Valley Unified,Santa Cruz,335.0,65.0,26.0,25.0,24.0,24.0,53.0,81.54
+59,Aragon High,San Mateo Union High,San Mateo,385.0,93.0,28.0,28.0,28.0,26.0,83.0,89.25
+60,Arcadia High,Arcadia Unified,Los Angeles,829.0,192.0,28.0,29.0,28.0,27.0,175.0,91.15
+61,Arcata High,Northern Humboldt Union High,Humboldt,210.0,40.0,28.0,26.0,25.0,25.0,36.0,90.0
+62,Argonaut High,Amador County Unified,Amador,96.0,20.0,23.0,21.0,21.0,21.0,13.0,65.0
+63,Arlington High,Riverside Unified,Riverside,434.0,123.0,18.0,18.0,19.0,18.0,40.0,32.52
+64,Armijo High,Fairfield-Suisun Unified,Solano,500.0,26.0,23.0,24.0,23.0,23.0,18.0,69.23
+65,Arnold O. Beckman High,Tustin Unified,Orange,760.0,225.0,28.0,29.0,28.0,27.0,206.0,91.56
+66,Arroyo Grande High,Lucia Mar Unified,San Luis Obispo,503.0,158.0,23.0,22.0,22.0,22.0,97.0,61.39
+67,Arroyo High,El Monte Union High,Los Angeles,544.0,29.0,22.0,21.0,23.0,22.0,18.0,62.07
+68,Arroyo High,San Lorenzo Unified,Alameda,473.0,32.0,21.0,22.0,23.0,22.0,18.0,56.25
+69,Arroyo Valley High,San Bernardino City Unified,San Bernardino,565.0,51.0,19.0,17.0,18.0,18.0,14.0,27.45
+70,Artesia High,ABC Unified,Los Angeles,344.0,27.0,19.0,18.0,20.0,19.0,10.0,37.04
+71,Arvin High,Kern High,Kern,616.0,71.0,19.0,18.0,18.0,19.0,22.0,30.99
+72,Asawa (Ruth) SF Sch of the Arts A Public School,San Francisco Unified,San Francisco,175.0,39.0,29.0,28.0,24.0,25.0,32.0,82.05
+73,Aspire Alexander Twilight Secondary Academy,San Juan Unified,Sacramento,36.0,44.0,16.0,14.0,17.0,16.0,7.0,15.91
+74,Aspire Benjamin Holt College Preparatory Academy,Lodi Unified,San Joaquin,94.0,98.0,21.0,20.0,20.0,20.0,51.0,52.04
+75,Aspire East Palo Alto Charter,Ravenswood City Elementary,San Mateo,20.0,31.0,16.0,14.0,18.0,15.0,3.0,9.68
+76,Aspire Golden State College Preparatory Academy,Oakland Unified,Alameda,65.0,151.0,18.0,17.0,17.0,17.0,31.0,20.53
+77,Aspire Langston Hughes Academy,Stockton Unified,San Joaquin,83.0,94.0,17.0,16.0,17.0,17.0,17.0,18.09
+78,Aspire Lionel Wilson College Preparatory Academy,Oakland Unified,Alameda,53.0,48.0,15.0,14.0,17.0,15.0,5.0,10.42
+79,Aspire Ollin University Preparatory Academy,Los Angeles County Office of Education,Los Angeles,118.0,133.0,16.0,16.0,17.0,17.0,15.0,11.28
+80,Aspire Pacific Academy,Los Angeles Unified,Los Angeles,97.0,99.0,15.0,14.0,16.0,16.0,7.0,7.07
+81,Aspire Richmond Ca. College Preparatory Academy,West Contra Costa Unified,Contra Costa,50.0,59.0,17.0,16.0,16.0,17.0,6.0,10.17
+82,Aspire Vanguard College Preparatory Academy,Modesto City High,Stanislaus,18.0,23.0,18.0,18.0,18.0,18.0,8.0,34.78
+83,Atascadero High,Atascadero Unified,San Luis Obispo,278.0,34.0,26.0,25.0,25.0,25.0,26.0,76.47
+84,Atwater High,Merced Union High,Merced,474.0,71.0,19.0,17.0,17.0,19.0,16.0,22.54
+85,Augustus F. Hawkins High A Critical Design and Gaming,Los Angeles Unified,Los Angeles,121.0,26.0,16.0,15.0,17.0,16.0,2.0,7.69
+86,Augustus F. Hawkins High B Community Health Advocates,Los Angeles Unified,Los Angeles,93.0,25.0,15.0,13.0,15.0,15.0,0.0,0.0
+87,Avenal High,Reef-Sunset Unified,Kings,149.0,112.0,16.0,14.0,15.0,16.0,4.0,3.57
+88,Azusa High,Azusa Unified,Los Angeles,291.0,25.0,17.0,16.0,18.0,19.0,4.0,16.0
+89,Bakersfield High,Kern High,Kern,693.0,47.0,24.0,21.0,23.0,22.0,32.0,68.09
+90,Balboa High,San Francisco Unified,San Francisco,306.0,42.0,20.0,19.0,21.0,20.0,18.0,42.86
+91,Baldwin Park High,Baldwin Park Unified,Los Angeles,438.0,114.0,21.0,19.0,20.0,20.0,54.0,47.37
+92,Banning High,Banning Unified,Riverside,218.0,51.0,18.0,17.0,18.0,18.0,13.0,25.49
+93,Barstow High,Barstow Unified,San Bernardino,319.0,26.0,18.0,17.0,19.0,19.0,8.0,30.77
+94,Bassett Senior High,Bassett Unified,Los Angeles,254.0,21.0,23.0,22.0,22.0,22.0,12.0,57.14
+95,Bear Creek High,Lodi Unified,San Joaquin,450.0,50.0,20.0,20.0,22.0,22.0,23.0,46.0
+96,Bear River High,Nevada Joint Union High,Nevada,128.0,22.0,23.0,22.0,23.0,22.0,15.0,68.18
+97,Beaumont Senior High,Beaumont Unified,Riverside,652.0,48.0,22.0,20.0,20.0,21.0,23.0,47.92
+98,Bell Gardens High,Montebello Unified,Los Angeles,653.0,175.0,18.0,17.0,17.0,19.0,40.0,22.86
+99,Bell Senior High,Los Angeles Unified,Los Angeles,575.0,178.0,18.0,17.0,18.0,18.0,44.0,24.72
+100,Bella Vista High,San Juan Unified,Sacramento,458.0,74.0,26.0,25.0,26.0,25.0,63.0,85.14
+101,Belmont Senior High,Los Angeles Unified,Los Angeles,206.0,31.0,17.0,15.0,17.0,16.0,4.0,12.9
+102,Benicia High,Benicia Unified,Solano,363.0,67.0,27.0,26.0,25.0,25.0,56.0,83.58
+103,Benjamin Franklin Senior High,Los Angeles Unified,Los Angeles,277.0,108.0,18.0,17.0,19.0,18.0,26.0,24.07
+104,Berkeley High,Berkeley Unified,Alameda,715.0,222.0,26.0,26.0,25.0,25.0,165.0,74.32
+105,Beverly Hills High,Beverly Hills Unified,Los Angeles,404.0,91.0,28.0,29.0,27.0,26.0,78.0,85.71
+106,Birmingham Community Charter High,Los Angeles Unified,Los Angeles,798.0,37.0,20.0,19.0,20.0,19.0,16.0,43.24
+107,Bishop Union High,Bishop Unified,Inyo,133.0,27.0,23.0,22.0,22.0,22.0,19.0,70.37
+108,Blair High,Pasadena Unified,Los Angeles,156.0,37.0,23.0,22.0,22.0,22.0,20.0,54.05
+109,Bloomington High,Colton Joint Unified,San Bernardino,481.0,17.0,21.0,21.0,20.0,21.0,11.0,64.71
+110,Bolsa Grande High,Garden Grove Unified,Orange,477.0,99.0,21.0,21.0,21.0,20.0,47.0,47.47
+111,Bonita High,Bonita Unified,Los Angeles,471.0,115.0,23.0,22.0,22.0,22.0,70.0,60.87
+112,Bonita Vista Senior High,Sweetwater Union High,San Diego,659.0,72.0,24.0,24.0,24.0,24.0,51.0,70.83
+113,Branham High,Campbell Union High,Santa Clara,416.0,67.0,28.0,28.0,27.0,26.0,64.0,95.52
+114,Brawley Union High,Brawley Union High,Imperial,373.0,115.0,19.0,18.0,18.0,18.0,34.0,29.57
+115,Brea-Olinda High,Brea-Olinda Unified,Orange,476.0,121.0,26.0,26.0,26.0,26.0,109.0,90.08
+116,Bright Star Secondary Charter Academy,Los Angeles Unified,Los Angeles,117.0,45.0,18.0,17.0,17.0,19.0,11.0,24.44
+117,Buchanan High,Clovis Unified,Fresno,667.0,125.0,26.0,24.0,24.0,25.0,100.0,80.0
+118,Buena High,Ventura Unified,Ventura,412.0,55.0,23.0,22.0,22.0,22.0,32.0,58.18
+119,Buena Park High,Fullerton Joint Union High,Orange,479.0,35.0,22.0,20.0,21.0,22.0,18.0,51.43
+120,Buhach Colony High,Merced Union High,Merced,412.0,64.0,21.0,19.0,19.0,20.0,21.0,32.81
+121,Bullard High,Fresno Unified,Fresno,518.0,24.0,21.0,20.0,22.0,21.0,12.0,50.0
+122,Burbank High,Burbank Unified,Los Angeles,586.0,94.0,25.0,25.0,25.0,24.0,76.0,80.85
+123,Burlingame High,San Mateo Union High,San Mateo,401.0,131.0,27.0,27.0,27.0,26.0,110.0,83.97
+124,Burroughs High,Sierra Sands Unified,Kern,331.0,15.0,27.0,26.0,27.0,26.0,14.0,93.33
+125,Burroughs High,Burbank Unified,Los Angeles,584.0,81.0,26.0,26.0,24.0,24.0,63.0,77.78
+126,Burton (Phillip and Sala) Academic High,San Francisco Unified,San Francisco,248.0,50.0,20.0,20.0,21.0,20.0,25.0,50.0
+127,C. K. McClatchy High,Sacramento City Unified,Sacramento,504.0,74.0,27.0,25.0,23.0,24.0,57.0,77.03
+128,Cabrillo High,Lompoc Unified,Santa Barbara,280.0,27.0,26.0,24.0,24.0,25.0,22.0,81.48
+129,Cabrillo High,Long Beach Unified,Los Angeles,531.0,52.0,18.0,17.0,18.0,17.0,10.0,19.23
+130,Cajon High,San Bernardino City Unified,San Bernardino,631.0,100.0,21.0,19.0,19.0,20.0,36.0,36.0
+131,Calabasas High,Las Virgenes Unified,Los Angeles,524.0,182.0,27.0,28.0,25.0,25.0,155.0,85.16
+132,Calaveras High,Calaveras Unified,Calaveras,189.0,19.0,25.0,22.0,24.0,23.0,16.0,84.21
+133,Calexico High,Calexico Unified,Imperial,761.0,90.0,20.0,19.0,21.0,20.0,35.0,38.89
+134,California Academy of Mathematics and Science,Long Beach Unified,Los Angeles,164.0,65.0,26.0,27.0,27.0,25.0,58.0,89.23
+135,California Connections Academy Southern California,Capistrano Unified,Orange,618.0,30.0,25.0,25.0,23.0,24.0,23.0,76.67
+136,California High,San Ramon Valley Unified,Contra Costa,648.0,203.0,27.0,26.0,26.0,26.0,178.0,87.68
+137,California High,Whittier Union High,Los Angeles,670.0,58.0,21.0,20.0,20.0,20.0,24.0,41.38
+138,California School for the Deaf-Fremont,California School for the Deaf-Fremont (State Special Schl),Alameda,81.0,21.0,16.0,13.0,15.0,17.0,2.0,9.52
+139,California School for the Deaf-Riverside,California School for the Deaf-Riverside (State Special Schl),Riverside,76.0,26.0,16.0,14.0,15.0,16.0,2.0,7.69
+140,California School of the Arts - San Gabriel Valley,Duarte Unified,Los Angeles,90.0,27.0,27.0,27.0,24.0,24.0,21.0,77.78
+141,Calipatria High,Calipatria Unified,Imperial,91.0,19.0,20.0,21.0,19.0,20.0,9.0,47.37
+142,Camino Nuevo Charter High,Los Angeles Unified,Los Angeles,86.0,34.0,17.0,16.0,15.0,15.0,4.0,11.76
+143,Camino Nuevo High #2,Los Angeles Unified,Los Angeles,112.0,82.0,16.0,15.0,16.0,15.0,3.0,3.66
+144,Campolindo High,Acalanes Union High,Contra Costa,340.0,161.0,30.0,30.0,28.0,28.0,149.0,92.55
+145,Canoga Park Senior High,Los Angeles Unified,Los Angeles,227.0,32.0,19.0,18.0,18.0,18.0,9.0,28.13
+146,Canyon Crest Academy,San Dieguito Union High,San Diego,635.0,409.0,30.0,31.0,30.0,29.0,392.0,95.84
+147,Canyon High,Orange Unified,Orange,572.0,119.0,25.0,25.0,24.0,24.0,92.0,77.31
+148,Canyon High,William S. Hart Union High,Los Angeles,536.0,65.0,23.0,23.0,22.0,22.0,39.0,60.0
+149,Canyon Springs High,Moreno Valley Unified,Riverside,494.0,31.0,22.0,21.0,21.0,19.0,16.0,51.61
+150,Capistrano Valley High,Capistrano Unified,Orange,521.0,151.0,26.0,27.0,26.0,25.0,129.0,85.43
+151,Capuchino High,San Mateo Union High,San Mateo,275.0,52.0,20.0,20.0,20.0,20.0,21.0,40.38
+152,Carlmont High,Sequoia Union High,San Mateo,522.0,173.0,27.0,26.0,27.0,26.0,142.0,82.08
+153,Carlsbad High,Carlsbad Unified,San Diego,525.0,154.0,24.0,24.0,24.0,23.0,110.0,71.43
+154,Carmel High,Carmel Unified,Monterey,207.0,121.0,26.0,26.0,25.0,25.0,93.0,76.86
+155,Carpinteria Senior High,Carpinteria Unified,Santa Barbara,148.0,39.0,22.0,19.0,22.0,22.0,21.0,53.85
+156,Carson Senior High,Los Angeles Unified,Los Angeles,334.0,26.0,20.0,20.0,20.0,19.0,11.0,42.31
+157,Casa Grande High,Petaluma Joint Union High,Sonoma,425.0,55.0,24.0,24.0,24.0,23.0,40.0,72.73
+158,Casa Roble Fundamental High,San Juan Unified,Sacramento,255.0,19.0,22.0,20.0,21.0,22.0,10.0,52.63
+159,Castle Park Senior High,Sweetwater Union High,San Diego,447.0,23.0,21.0,20.0,21.0,20.0,9.0,39.13
+160,Castro Valley High,Castro Valley Unified,Alameda,644.0,106.0,26.0,25.0,25.0,25.0,82.0,77.36
+161,Cathedral City High,Palm Springs Unified,Riverside,390.0,31.0,21.0,20.0,19.0,20.0,11.0,35.48
+162,Centennial High,Corona-Norco Unified,Riverside,786.0,163.0,21.0,21.0,22.0,21.0,84.0,51.53
+163,Centennial High,Compton Unified,Los Angeles,214.0,153.0,14.0,13.0,15.0,15.0,4.0,2.61
+164,Centennial High,Kern High,Kern,471.0,51.0,22.0,21.0,23.0,22.0,27.0,52.94
+165,Central City Value,Los Angeles Unified,Los Angeles,105.0,15.0,21.0,21.0,19.0,20.0,8.0,53.33
+166,Central High East Campus,Central Unified,Fresno,913.0,37.0,22.0,21.0,20.0,22.0,20.0,54.05
+167,Central Union High,Central Union High,Imperial,403.0,56.0,21.0,20.0,21.0,21.0,26.0,46.43
+168,Century High,Santa Ana Unified,Orange,417.0,39.0,19.0,18.0,18.0,18.0,11.0,28.21
+169,Ceres High,Ceres Unified,Stanislaus,381.0,23.0,19.0,17.0,18.0,19.0,4.0,17.39
+170,Cerritos High,ABC Unified,Los Angeles,509.0,93.0,27.0,28.0,28.0,26.0,83.0,89.25
+171,Cesar Chavez High,Stockton Unified,San Joaquin,521.0,22.0,19.0,19.0,18.0,18.0,7.0,31.82
+172,Cesar E. Chavez High,Delano Joint Union High,Kern,316.0,30.0,22.0,21.0,22.0,21.0,20.0,66.67
+173,Cesar E. Chavez Learning Academies-Academy of Scientific Exploration (ASE),Los Angeles Unified,Los Angeles,108.0,28.0,18.0,16.0,18.0,17.0,8.0,28.57
+174,Cesar E. Chavez Learning Academies-Arts/Theatre/Entertain Mag,Los Angeles Unified,Los Angeles,87.0,39.0,17.0,16.0,17.0,17.0,7.0,17.95
+175,Chaffey High,Chaffey Joint Union High,San Bernardino,782.0,31.0,21.0,20.0,20.0,20.0,14.0,45.16
+176,CHAMPS - Charter HS of Arts-Multimedia & Performing,Los Angeles Unified,Los Angeles,182.0,52.0,22.0,22.0,18.0,20.0,24.0,46.15
+177,Channel Islands High,Oxnard Union High,Ventura,611.0,74.0,19.0,18.0,18.0,18.0,17.0,22.97
+178,Chaparral High,Temecula Valley Unified,Riverside,722.0,178.0,23.0,21.0,21.0,22.0,110.0,61.8
+179,Charter Oak High,Charter Oak Unified,Los Angeles,364.0,38.0,22.0,21.0,22.0,22.0,25.0,65.79
+180,Chatsworth Charter High,Los Angeles Unified,Los Angeles,448.0,19.0,21.0,20.0,21.0,20.0,10.0,52.63
+181,Chico High,Chico Unified,Butte,475.0,46.0,25.0,23.0,24.0,24.0,32.0,69.57
+182,Chino High,Chino Valley Unified,San Bernardino,432.0,16.0,22.0,21.0,20.0,22.0,8.0,50.0
+183,Chino Hills High,Chino Valley Unified,San Bernardino,704.0,79.0,25.0,24.0,24.0,23.0,58.0,73.42
+184,Chowchilla Union High,Chowchilla Union High,Madera,262.0,18.0,21.0,20.0,20.0,21.0,9.0,50.0
+185,Christopher High,Gilroy Unified,Santa Clara,397.0,100.0,23.0,22.0,23.0,22.0,63.0,63.0
+186,Chula Vista Senior High,Sweetwater Union High,San Diego,672.0,83.0,20.0,20.0,19.0,20.0,35.0,42.17
+187,Citrus High (Continuation),Fontana Unified,San Bernardino,181.0,103.0,12.0,10.0,14.0,12.0,0.0,0.0
+188,Citrus Valley High,Redlands Unified,San Bernardino,490.0,33.0,24.0,23.0,23.0,23.0,20.0,60.61
+189,City Honors College Preparatory Academy,Inglewood Unified,Los Angeles,95.0,17.0,19.0,18.0,18.0,18.0,7.0,41.18
+190,Clairemont High,San Diego Unified,San Diego,207.0,27.0,25.0,25.0,24.0,24.0,19.0,70.37
+191,Claremont High,Claremont Unified,Los Angeles,591.0,139.0,25.0,24.0,24.0,24.0,103.0,74.1
+192,Classical Academy High,Escondido Union High,San Diego,298.0,69.0,27.0,27.0,27.0,26.0,62.0,89.86
+193,Clayton Valley Charter High,Contra Costa County Office of Education,Contra Costa,482.0,130.0,25.0,24.0,23.0,24.0,95.0,73.08
+194,Clovis East High,Clovis Unified,Fresno,584.0,55.0,22.0,21.0,22.0,23.0,31.0,56.36
+195,Clovis High,Clovis Unified,Fresno,733.0,88.0,24.0,22.0,22.0,22.0,57.0,64.77
+196,Clovis North High,Clovis Unified,Fresno,576.0,124.0,27.0,27.0,27.0,27.0,111.0,89.52
+197,Clovis West High,Clovis Unified,Fresno,486.0,84.0,23.0,24.0,24.0,23.0,58.0,69.05
+198,Coachella Valley High,Coachella Valley Unified,Riverside,607.0,88.0,18.0,16.0,19.0,18.0,18.0,20.45
+199,Cobalt Institute of Math and Science Academy,Victor Valley Union High,San Bernardino,103.0,19.0,20.0,18.0,19.0,19.0,7.0,36.84
+200,Colfax High,Placer Union High,Placer,125.0,31.0,24.0,22.0,22.0,22.0,20.0,64.52
+201,College Park High,Mt. Diablo Unified,Contra Costa,443.0,70.0,25.0,24.0,24.0,23.0,53.0,75.71
+202,Colony High,Chaffey Joint Union High,San Bernardino,539.0,55.0,20.0,20.0,20.0,20.0,22.0,40.0
+203,Colton High,Colton Joint Unified,San Bernardino,445.0,71.0,18.0,17.0,19.0,18.0,14.0,19.72
+204,Communication and Technology at Diego Rivera Learning Complex,Los Angeles Unified,Los Angeles,103.0,33.0,15.0,14.0,17.0,15.0,2.0,6.06
+205,Compton Early College High,Compton Unified,Los Angeles,65.0,64.0,20.0,18.0,19.0,19.0,22.0,34.38
+206,Compton High,Compton Unified,Los Angeles,354.0,274.0,15.0,13.0,16.0,15.0,14.0,5.11
+207,Concord High,Mt. Diablo Unified,Contra Costa,369.0,24.0,25.0,24.0,24.0,23.0,21.0,87.5
+208,Contreras Learning Center-Academic Leadership Community,Los Angeles Unified,Los Angeles,84.0,58.0,14.0,13.0,16.0,15.0,3.0,5.17
+209,Contreras Learning Center-School of Social Justice,Los Angeles Unified,Los Angeles,90.0,40.0,16.0,14.0,16.0,15.0,3.0,7.5
+210,Corcoran High,Corcoran Joint Unified,Kings,169.0,40.0,18.0,17.0,18.0,19.0,10.0,25.0
+211,Cordova High,Folsom-Cordova Unified,Sacramento,386.0,23.0,23.0,23.0,22.0,21.0,14.0,60.87
+212,Corning High,Corning Union High,Tehama,206.0,113.0,18.0,18.0,18.0,17.0,33.0,29.2
+213,Corona del Mar High,Newport-Mesa Unified,Orange,458.0,300.0,27.0,28.0,26.0,26.0,265.0,88.33
+214,Corona High,Corona-Norco Unified,Riverside,581.0,108.0,19.0,18.0,19.0,19.0,34.0,31.48
+215,Coronado High,Coronado Unified,San Diego,291.0,128.0,26.0,25.0,25.0,25.0,100.0,78.13
+216,Costa Mesa High,Newport-Mesa Unified,Orange,286.0,30.0,24.0,23.0,21.0,22.0,19.0,63.33
+217,Cosumnes Oaks High,Elk Grove Unified,Sacramento,580.0,143.0,24.0,23.0,23.0,23.0,100.0,69.93
+218,Crawford High,San Diego Unified,San Diego,218.0,37.0,19.0,18.0,18.0,19.0,11.0,29.73
+219,Crenshaw Science Technology Engineering Math and Medicine Magnet,Los Angeles Unified,Los Angeles,216.0,33.0,16.0,14.0,16.0,15.0,3.0,9.09
+220,Crescenta Valley High,Glendale Unified,Los Angeles,631.0,143.0,27.0,27.0,26.0,26.0,124.0,86.71
+221,Culver City High,Culver City Unified,Los Angeles,526.0,147.0,24.0,24.0,22.0,23.0,94.0,63.95
+222,Cupertino High,Fremont Union High,Santa Clara,625.0,209.0,29.0,30.0,30.0,29.0,200.0,95.69
+223,Cypress High,Anaheim Union High,Orange,713.0,105.0,26.0,25.0,26.0,25.0,86.0,81.9
+224,Da Vinci Communications,Wiseburn Unified,Los Angeles,94.0,44.0,17.0,16.0,17.0,17.0,5.0,11.36
+225,Da Vinci Design,Wiseburn Unified,Los Angeles,164.0,33.0,19.0,20.0,18.0,18.0,10.0,30.3
+226,Da Vinci Science,Wiseburn Unified,Los Angeles,159.0,43.0,25.0,24.0,22.0,23.0,28.0,65.12
+227,Dana Hills High,Capistrano Unified,Orange,669.0,213.0,27.0,27.0,26.0,26.0,193.0,90.61
+228,Daniel Pearl Journalism & Communications Magnet,Los Angeles Unified,Los Angeles,71.0,23.0,24.0,24.0,22.0,22.0,14.0,60.87
+229,David Starr Jordan Senior High,Los Angeles Unified,Los Angeles,87.0,16.0,18.0,16.0,17.0,18.0,5.0,31.25
+230,Davis Senior High,Davis Joint Unified,Yolo,569.0,144.0,28.0,28.0,28.0,27.0,135.0,93.75
+231,De Anza High,West Contra Costa Unified,Contra Costa,332.0,55.0,20.0,19.0,18.0,19.0,19.0,34.55
+232,Deer Valley High,Antioch Unified,Contra Costa,533.0,47.0,23.0,21.0,22.0,21.0,23.0,48.94
+233,Del Campo High,San Juan Unified,Sacramento,371.0,36.0,22.0,22.0,21.0,20.0,18.0,50.0
+234,Del Lago Academy - Campus of Applied Science,Escondido Union High,San Diego,178.0,65.0,22.0,21.0,21.0,22.0,37.0,56.92
+235,Del Mar High,Campbell Union High,Santa Clara,290.0,67.0,21.0,20.0,19.0,21.0,29.0,43.28
+236,Del Norte High,Poway Unified,San Diego,515.0,211.0,28.0,28.0,27.0,27.0,186.0,88.15
+237,Del Oro High,Placer Union High,Placer,410.0,110.0,25.0,24.0,24.0,24.0,86.0,78.18
+238,Delano High,Delano Joint Union High,Kern,339.0,110.0,18.0,17.0,19.0,18.0,28.0,25.45
+239,Delhi High,Delhi Unified,Merced,167.0,68.0,18.0,17.0,17.0,18.0,15.0,22.06
+240,Desert Hot Springs High,Palm Springs Unified,Riverside,417.0,46.0,17.0,16.0,16.0,18.0,3.0,6.52
+241,Desert Mirage High,Coachella Valley Unified,Riverside,459.0,97.0,17.0,16.0,17.0,17.0,12.0,12.37
+242,Design Science Middle College High,Fresno Unified,Fresno,63.0,58.0,21.0,20.0,21.0,20.0,23.0,39.66
+243,Design Tech High,San Mateo Union High,San Mateo,120.0,33.0,29.0,29.0,26.0,28.0,29.0,87.88
+244,Diamond Bar High,Walnut Valley Unified,Los Angeles,749.0,188.0,28.0,28.0,29.0,27.0,165.0,87.77
+245,Diamond Ranch High,Pomona Unified,Los Angeles,377.0,82.0,23.0,22.0,21.0,22.0,47.0,57.32
+246,Dinuba High,Dinuba Unified,Tulare,423.0,96.0,18.0,16.0,17.0,19.0,18.0,18.75
+247,Dixon High,Dixon Unified,Solano,246.0,67.0,21.0,20.0,21.0,20.0,34.0,50.75
+248,Dominguez High,Compton Unified,Los Angeles,391.0,268.0,15.0,14.0,16.0,15.0,13.0,4.85
+249,Don Antonio Lugo High,Chino Valley Unified,San Bernardino,432.0,22.0,21.0,22.0,21.0,21.0,9.0,40.91
+250,Dos Pueblos Senior High,Santa Barbara Unified,Santa Barbara,486.0,155.0,25.0,25.0,25.0,24.0,107.0,69.03
+251,Dougherty Valley High,San Ramon Valley Unified,Contra Costa,766.0,294.0,30.0,30.0,30.0,29.0,281.0,95.58
+252,Downey High,Downey Unified,Los Angeles,1050.0,87.0,23.0,22.0,22.0,22.0,59.0,67.82
+253,Downtown Business High,Los Angeles Unified,Los Angeles,203.0,102.0,22.0,21.0,22.0,22.0,61.0,59.8
+254,Downtown College Prep - Alum Rock,Santa Clara County Office of Education,Santa Clara,61.0,38.0,17.0,16.0,17.0,17.0,7.0,18.42
+255,Downtown College Preparatory,San Jose Unified,Santa Clara,85.0,57.0,16.0,15.0,16.0,17.0,5.0,8.77
+256,Dozier-Libbey Medical High,Antioch Unified,Contra Costa,143.0,19.0,23.0,21.0,21.0,21.0,10.0,52.63
+257,Dr. Maya Angelou Community High,Los Angeles Unified,Los Angeles,147.0,27.0,17.0,15.0,16.0,16.0,1.0,3.7
+258,Dr. Richard A. Vladovic Harbor Teacher Preparation Academy,Los Angeles Unified,Los Angeles,118.0,24.0,25.0,25.0,23.0,22.0,19.0,79.17
+259,Duarte High,Duarte Unified,Los Angeles,199.0,28.0,20.0,20.0,18.0,19.0,10.0,35.71
+260,Dublin High,Dublin Unified,Alameda,622.0,216.0,28.0,28.0,28.0,27.0,187.0,86.57
+261,Eagle Rock High,Los Angeles Unified,Los Angeles,420.0,38.0,25.0,25.0,23.0,23.0,25.0,65.79
+262,Early College High,Newport-Mesa Unified,Orange,50.0,38.0,24.0,24.0,23.0,23.0,24.0,63.16
+263,East Bakersfield High,Kern High,Kern,533.0,34.0,19.0,17.0,18.0,18.0,7.0,20.59
+264,East Los Angeles Renaissance Academy at Esteban E. Torres High No. 2,Los Angeles Unified,Los Angeles,94.0,23.0,17.0,16.0,16.0,18.0,2.0,8.7
+265,East Union High,Manteca Unified,San Joaquin,392.0,29.0,21.0,20.0,22.0,20.0,13.0,44.83
+266,East Valley Senior High,Los Angeles Unified,Los Angeles,141.0,15.0,16.0,15.0,16.0,17.0,1.0,6.67
+267,Eastlake High,Sweetwater Union High,San Diego,802.0,111.0,24.0,23.0,23.0,23.0,75.0,67.57
+268,Eastside High,Antelope Valley Union High,Los Angeles,562.0,45.0,19.0,18.0,16.0,18.0,9.0,20.0
+269,Edison High,Huntington Beach Union High,Orange,669.0,125.0,25.0,25.0,24.0,25.0,101.0,80.8
+270,Edison High,Stockton Unified,San Joaquin,525.0,25.0,19.0,17.0,18.0,18.0,7.0,28.0
+271,Edison High,Fresno Unified,Fresno,560.0,67.0,23.0,21.0,21.0,21.0,36.0,53.73
+272,Ednovate - East College Prep,Los Angeles Unified,Los Angeles,79.0,85.0,19.0,19.0,18.0,19.0,23.0,27.06
+273,Ednovate - USC Hybrid High College Prep,Los Angeles Unified,Los Angeles,131.0,148.0,20.0,20.0,20.0,20.0,66.0,44.59
+274,Edward R. Roybal Learning Center,Los Angeles Unified,Los Angeles,233.0,20.0,18.0,17.0,18.0,19.0,7.0,35.0
+275,Eisenhower Senior High,Rialto Unified,San Bernardino,524.0,63.0,18.0,16.0,18.0,18.0,15.0,23.81
+276,El Cajon Valley High,Grossmont Union High,San Diego,553.0,94.0,19.0,18.0,20.0,20.0,36.0,38.3
+277,El Camino Fundamental High,San Juan Unified,Sacramento,321.0,46.0,25.0,23.0,24.0,24.0,37.0,80.43
+278,El Camino High,South San Francisco Unified,San Mateo,315.0,21.0,24.0,24.0,24.0,22.0,17.0,80.95
+279,El Camino High,Oceanside Unified,San Diego,795.0,125.0,20.0,20.0,21.0,21.0,63.0,50.4
+280,El Camino Real Charter High,Los Angeles Unified,Los Angeles,904.0,122.0,25.0,26.0,25.0,24.0,101.0,82.79
+281,El Capitan High,Grossmont Union High,San Diego,406.0,56.0,22.0,21.0,20.0,21.0,30.0,53.57
+282,El Capitan High,Merced Union High,Merced,373.0,96.0,20.0,18.0,19.0,19.0,31.0,32.29
+283,El Cerrito High,West Contra Costa Unified,Contra Costa,331.0,48.0,24.0,23.0,23.0,23.0,29.0,60.42
+284,El Diamante High,Visalia Unified,Tulare,461.0,49.0,20.0,20.0,21.0,21.0,22.0,44.9
+285,El Dorado High,El Dorado Union High,El Dorado,235.0,48.0,23.0,21.0,21.0,21.0,26.0,54.17
+286,El Dorado High,Placentia-Yorba Linda Unified,Orange,462.0,71.0,25.0,24.0,25.0,24.0,57.0,80.28
+287,El Modena High,Orange Unified,Orange,526.0,42.0,24.0,24.0,24.0,23.0,29.0,69.05
+288,El Molino High,West Sonoma County Union High,Sonoma,131.0,22.0,24.0,22.0,22.0,23.0,13.0,59.09
+289,El Monte High,El Monte Union High,Los Angeles,397.0,114.0,19.0,18.0,20.0,19.0,42.0,36.84
+290,El Rancho High,El Rancho Unified,Los Angeles,592.0,218.0,19.0,18.0,19.0,19.0,62.0,28.44
+291,El Segundo High,El Segundo Unified,Los Angeles,292.0,109.0,25.0,25.0,24.0,24.0,78.0,71.56
+292,El Toro High,Saddleback Valley Unified,Orange,559.0,113.0,23.0,23.0,23.0,23.0,75.0,66.37
+293,Eleanor Roosevelt High,Corona-Norco Unified,Riverside,1083.0,190.0,23.0,21.0,22.0,22.0,111.0,58.42
+294,Elk Grove High,Elk Grove Unified,Sacramento,475.0,97.0,24.0,22.0,23.0,22.0,62.0,63.92
+295,Encinal Junior/Senior High,Alameda Unified,Alameda,233.0,44.0,26.0,26.0,25.0,24.0,36.0,81.82
+296,Encore Jr./Sr. High School for the Performing and Visual Arts,Hesperia Unified,San Bernardino,113.0,37.0,20.0,18.0,17.0,17.0,10.0,27.03
+297,Environmental Charter High,Lawndale Elementary,Los Angeles,126.0,96.0,17.0,17.0,18.0,17.0,19.0,19.79
+298,Eric Birch High (Continuation),Fontana Unified,San Bernardino,142.0,113.0,13.0,11.0,14.0,13.0,0.0,0.0
+299,Ernest Righetti High,Santa Maria Joint Union High,Santa Barbara,536.0,58.0,21.0,20.0,22.0,21.0,29.0,50.0
+300,Ernest S. McBride Sr. High,Long Beach Unified,Los Angeles,165.0,24.0,24.0,24.0,22.0,23.0,15.0,62.5
+301,Escalon High,Escalon Unified,San Joaquin,188.0,16.0,21.0,19.0,21.0,22.0,10.0,62.5
+302,Escondido Charter High,Escondido Union High,San Diego,210.0,27.0,24.0,23.0,25.0,24.0,20.0,74.07
+303,Escondido High,Escondido Union High,San Diego,580.0,137.0,19.0,17.0,18.0,19.0,38.0,27.74
+304,Esperanza High,Placentia-Yorba Linda Unified,Orange,355.0,83.0,24.0,23.0,23.0,23.0,57.0,68.67
+305,Estancia High,Newport-Mesa Unified,Orange,325.0,22.0,20.0,20.0,19.0,20.0,7.0,31.82
+306,Esteban Torres East LA Performing Arts Magnet,Los Angeles Unified,Los Angeles,85.0,27.0,15.0,14.0,16.0,16.0,3.0,11.11
+307,Etiwanda High,Chaffey Joint Union High,San Bernardino,851.0,84.0,21.0,21.0,22.0,22.0,48.0,57.14
+308,Etna Union High,Scott Valley Unified,Siskiyou,43.0,27.0,20.0,20.0,21.0,21.0,11.0,40.74
+309,Eureka Senior High,Eureka City Schools,Humboldt,266.0,23.0,24.0,22.0,23.0,22.0,16.0,69.57
+310,Everest Public High,Sequoia Union High,San Mateo,86.0,51.0,19.0,17.0,18.0,19.0,12.0,23.53
+311,Everett Alvarez High,Salinas Union High,Monterey,607.0,122.0,19.0,18.0,18.0,18.0,34.0,27.87
+312,Evergreen Valley High,East Side Union High,Santa Clara,712.0,122.0,29.0,29.0,29.0,28.0,114.0,93.44
+313,Exeter Union High,Exeter Unified,Tulare,187.0,18.0,25.0,23.0,20.0,23.0,13.0,72.22
+314,Fairfax Senior High,Los Angeles Unified,Los Angeles,361.0,36.0,21.0,21.0,21.0,20.0,12.0,33.33
+315,Fallbrook High,Fallbrook Union High,San Diego,464.0,40.0,23.0,22.0,22.0,21.0,25.0,62.5
+316,Farmersville High,Farmersville Unified,Tulare,170.0,46.0,18.0,16.0,17.0,17.0,8.0,17.39
+317,Fillmore Senior High,Fillmore Unified,Ventura,250.0,29.0,24.0,23.0,23.0,23.0,19.0,65.52
+318,Firebaugh High,Firebaugh-Las Deltas Unified,Fresno,167.0,31.0,16.0,15.0,16.0,17.0,3.0,9.68
+319,Florin High,Elk Grove Unified,Sacramento,322.0,94.0,19.0,18.0,20.0,19.0,30.0,31.91
+320,Folsom High,Folsom-Cordova Unified,Sacramento,552.0,127.0,27.0,27.0,27.0,26.0,110.0,86.61
+321,Fontana A. B. Miller High,Fontana Unified,San Bernardino,507.0,447.0,16.0,14.0,17.0,16.0,53.0,11.86
+322,Fontana High,Fontana Unified,San Bernardino,538.0,496.0,15.0,13.0,16.0,16.0,42.0,8.47
+323,Foothill High,Pleasanton Unified,Alameda,498.0,196.0,28.0,28.0,28.0,27.0,176.0,89.8
+324,Foothill High,Kern High,Kern,471.0,15.0,20.0,18.0,21.0,19.0,6.0,40.0
+325,Foothill High,Shasta Union High,Shasta,317.0,29.0,26.0,23.0,23.0,23.0,22.0,75.86
+326,Foothill High,Tustin Unified,Orange,542.0,155.0,26.0,26.0,25.0,24.0,127.0,81.94
+327,Foothill Technology High,Ventura Unified,Ventura,222.0,61.0,24.0,23.0,22.0,23.0,34.0,55.74
+328,Fort Bragg High,Fort Bragg Unified,Mendocino,107.0,24.0,25.0,24.0,22.0,23.0,17.0,70.83
+329,Fortuna Union High,Fortuna Union High,Humboldt,183.0,18.0,23.0,21.0,22.0,22.0,9.0,50.0
+330,Foshay Learning Center,Los Angeles Unified,Los Angeles,166.0,56.0,19.0,18.0,19.0,18.0,19.0,33.93
+331,Fountain Valley High,Huntington Beach Union High,Orange,805.0,102.0,27.0,26.0,26.0,26.0,87.0,85.29
+332,Francisco Bravo Medical Magnet High,Los Angeles Unified,Los Angeles,403.0,101.0,21.0,20.0,21.0,20.0,55.0,54.46
+333,Franklin High,Stockton Unified,San Joaquin,449.0,57.0,20.0,19.0,20.0,20.0,21.0,36.84
+334,Franklin High,Elk Grove Unified,Sacramento,595.0,69.0,26.0,25.0,25.0,23.0,57.0,82.61
+335,Fred C. Beyer High,Modesto City High,Stanislaus,397.0,63.0,25.0,25.0,24.0,24.0,47.0,74.6
+336,Freedom High,Liberty Union High,Contra Costa,649.0,89.0,22.0,21.0,20.0,21.0,40.0,44.94
+337,Fremont Academy of Engineering and Design,Pomona Unified,Los Angeles,90.0,19.0,19.0,17.0,18.0,18.0,6.0,31.58
+338,Fremont High,Oakland Unified,Alameda,154.0,26.0,14.0,14.0,15.0,14.0,2.0,7.69
+339,Fremont High,Fremont Union High,Santa Clara,508.0,82.0,27.0,27.0,27.0,26.0,66.0,80.49
+340,Fresno High,Fresno Unified,Fresno,442.0,110.0,17.0,16.0,17.0,17.0,14.0,12.73
+341,Frontier High,Kern High,Kern,576.0,50.0,25.0,23.0,24.0,22.0,38.0,76.0
+342,Fullerton Union High,Fullerton Joint Union High,Orange,467.0,59.0,24.0,24.0,23.0,23.0,42.0,71.19
+343,Gabrielino High,San Gabriel Unified,Los Angeles,433.0,69.0,28.0,28.0,26.0,26.0,62.0,89.86
+344,Gahr (Richard) High,ABC Unified,Los Angeles,418.0,41.0,21.0,21.0,22.0,22.0,25.0,60.98
+345,Galileo High,San Francisco Unified,San Francisco,462.0,95.0,21.0,20.0,23.0,21.0,55.0,57.89
+346,Galt High,Galt Joint Union High,Sacramento,215.0,26.0,19.0,16.0,19.0,19.0,6.0,23.08
+347,Ganesha High,Pomona Unified,Los Angeles,207.0,67.0,17.0,16.0,17.0,17.0,11.0,16.42
+348,Garden Grove High,Garden Grove Unified,Orange,569.0,77.0,24.0,24.0,22.0,23.0,55.0,71.43
+349,Gardena Senior High,Los Angeles Unified,Los Angeles,279.0,24.0,18.0,17.0,17.0,17.0,3.0,12.5
+350,Garey High,Pomona Unified,Los Angeles,399.0,23.0,17.0,17.0,18.0,18.0,4.0,17.39
+351,Gateway High,San Francisco Unified,San Francisco,112.0,39.0,21.0,20.0,19.0,19.0,16.0,41.03
+352,Gilroy High,Gilroy Unified,Santa Clara,374.0,36.0,22.0,20.0,22.0,21.0,21.0,58.33
+353,Gladstone High,Azusa Unified,Los Angeles,266.0,24.0,21.0,21.0,21.0,22.0,13.0,54.17
+354,Glen A. Wilson High,Hacienda la Puente Unified,Los Angeles,355.0,28.0,25.0,23.0,24.0,24.0,20.0,71.43
+355,Glendale High,Glendale Unified,Los Angeles,547.0,42.0,23.0,22.0,23.0,23.0,29.0,69.05
+356,Glendora High,Glendora Unified,Los Angeles,591.0,79.0,25.0,23.0,24.0,23.0,66.0,83.54
+357,Golden Valley High,Kern High,Kern,580.0,22.0,21.0,18.0,19.0,20.0,8.0,36.36
+358,Golden Valley High,Merced Union High,Merced,397.0,45.0,18.0,16.0,18.0,18.0,10.0,22.22
+359,Golden Valley High,William S. Hart Union High,Los Angeles,479.0,53.0,25.0,23.0,21.0,23.0,37.0,69.81
+360,Golden West High,Visalia Unified,Tulare,383.0,38.0,21.0,19.0,20.0,21.0,17.0,44.74
+361,Gompers Preparatory Academy,San Diego Unified,San Diego,125.0,114.0,16.0,15.0,17.0,16.0,12.0,10.53
+362,Gonzales High,Gonzales Unified,Monterey,182.0,63.0,17.0,17.0,17.0,17.0,11.0,17.46
+363,Granada High,Livermore Valley Joint Unified,Alameda,567.0,147.0,27.0,26.0,26.0,25.0,118.0,80.27
+364,Granada Hills Charter High,Los Angeles Unified,Los Angeles,1120.0,204.0,25.0,25.0,24.0,24.0,154.0,75.49
+365,Grand Terrace High School at the Ray Abril Jr. Educational Complex,Colton Joint Unified,San Bernardino,503.0,38.0,21.0,21.0,20.0,21.0,21.0,55.26
+366,Granite Bay High,Roseville Joint Union High,Placer,513.0,201.0,26.0,26.0,26.0,25.0,175.0,87.06
+367,Granite Hills High,Grossmont Union High,San Diego,557.0,97.0,22.0,20.0,22.0,21.0,55.0,56.7
+368,Granite Hills High,Porterville Unified,Tulare,302.0,41.0,17.0,16.0,17.0,18.0,5.0,12.2
+369,Grant Union High,Twin Rivers Unified,Sacramento,394.0,49.0,20.0,18.0,18.0,18.0,17.0,34.69
+370,Great Oak High,Temecula Valley Unified,Riverside,756.0,214.0,24.0,24.0,23.0,23.0,157.0,73.36
+371,Greenfield High,South Monterey County Joint Union High,Monterey,268.0,53.0,17.0,15.0,16.0,16.0,5.0,9.43
+372,Gridley High,Gridley Unified,Butte,158.0,15.0,22.0,22.0,24.0,22.0,9.0,60.0
+373,Grossmont High,Grossmont Union High,San Diego,539.0,87.0,23.0,22.0,23.0,22.0,51.0,58.62
+374,Grover Cleveland Charter High,Los Angeles Unified,Los Angeles,651.0,110.0,26.0,26.0,24.0,24.0,88.0,80.0
+375,Guajome Park Academy Charter,Vista Unified,San Diego,103.0,16.0,27.0,26.0,26.0,26.0,14.0,87.5
+376,Gunderson High,San Jose Unified,Santa Clara,246.0,17.0,24.0,22.0,23.0,22.0,11.0,64.71
+377,Gustine High,Gustine Unified,Merced,140.0,28.0,20.0,19.0,17.0,19.0,8.0,28.57
+378,Half Moon Bay High,Cabrillo Unified,San Mateo,223.0,65.0,27.0,26.0,25.0,25.0,50.0,76.92
+379,Hamilton High,Hamilton Unified,Glenn,86.0,30.0,18.0,18.0,18.0,19.0,7.0,23.33
+380,Hanford High,Hanford Joint Union High,Kings,335.0,18.0,21.0,21.0,20.0,21.0,9.0,50.0
+381,Hanford West High,Hanford Joint Union High,Kings,301.0,17.0,21.0,20.0,19.0,20.0,9.0,52.94
+382,Harbor High,Santa Cruz City High,Santa Cruz,179.0,45.0,20.0,19.0,21.0,20.0,17.0,37.78
+383,Harmony Magnet Academy,Porterville Unified,Tulare,109.0,38.0,22.0,21.0,22.0,22.0,21.0,55.26
+384,Hawthorne High,Centinela Valley Union High,Los Angeles,498.0,124.0,18.0,17.0,17.0,17.0,20.0,16.13
+385,Hawthorne Math and Science Academy,Hawthorne,Los Angeles,112.0,112.0,20.0,20.0,21.0,19.0,49.0,43.75
+386,Hayward High,Hayward Unified,Alameda,355.0,37.0,21.0,20.0,20.0,20.0,21.0,56.76
+387,Healdsburg High,Healdsburg Unified,Sonoma,139.0,36.0,24.0,25.0,22.0,22.0,29.0,80.56
+388,Health Careers Academy,Stockton Unified,San Joaquin,96.0,41.0,18.0,17.0,18.0,18.0,11.0,26.83
+389,Hector G. Godinez,Santa Ana Unified,Orange,627.0,72.0,21.0,18.0,20.0,20.0,33.0,45.83
+390,Helen Bernstein High,Los Angeles Unified,Los Angeles,124.0,34.0,15.0,14.0,16.0,15.0,4.0,11.76
+391,Helix High,Grossmont Union High,San Diego,578.0,239.0,22.0,21.0,22.0,21.0,134.0,56.07
+392,Hemet High,Hemet Unified,Riverside,573.0,18.0,25.0,22.0,21.0,20.0,13.0,72.22
+393,Henry High,San Diego Unified,San Diego,506.0,138.0,24.0,24.0,25.0,24.0,104.0,75.36
+394,Henry J. Kaiser High,Fontana Unified,San Bernardino,516.0,467.0,16.0,14.0,16.0,16.0,63.0,13.49
+395,Henry M. Gunn High,Palo Alto Unified,Santa Clara,501.0,223.0,29.0,29.0,29.0,28.0,201.0,90.13
+396,Herbert Hoover High,Fresno Unified,Fresno,360.0,31.0,17.0,15.0,17.0,17.0,4.0,12.9
+397,Hercules High,West Contra Costa Unified,Contra Costa,219.0,20.0,23.0,25.0,22.0,23.0,13.0,65.0
+398,Heritage High,Perris Union High,Riverside,610.0,150.0,19.0,18.0,18.0,19.0,44.0,29.33
+399,Heritage High,Liberty Union High,Contra Costa,574.0,112.0,26.0,25.0,24.0,25.0,87.0,77.68
+400,Hesperia High,Hesperia Unified,San Bernardino,445.0,40.0,20.0,18.0,18.0,18.0,9.0,22.5
+401,High Tech High,San Diego Unified,San Diego,126.0,25.0,25.0,23.0,22.0,23.0,15.0,60.0
+402,High Tech High Chula Vista,SBC - High Tech High,San Diego,147.0,16.0,22.0,19.0,19.0,19.0,6.0,37.5
+403,High Tech High International,San Diego Unified,San Diego,98.0,22.0,22.0,21.0,20.0,19.0,10.0,45.45
+404,High Tech High Media Arts,San Diego Unified,San Diego,90.0,38.0,21.0,21.0,19.0,20.0,19.0,50.0
+405,High Tech High North County,SBC - High Tech High,San Diego,95.0,24.0,23.0,22.0,20.0,22.0,13.0,54.17
+406,High Tech LA,Los Angeles Unified,Los Angeles,90.0,15.0,20.0,21.0,21.0,20.0,6.0,40.0
+407,Highland High,Kern High,Kern,477.0,22.0,22.0,19.0,20.0,20.0,10.0,45.45
+408,Highland High,Antelope Valley Union High,Los Angeles,691.0,25.0,22.0,21.0,19.0,20.0,12.0,48.0
+409,Hilda L. Solis Learning Academy School of Technology Business and Education,Los Angeles Unified,Los Angeles,67.0,20.0,17.0,16.0,18.0,18.0,2.0,10.0
+410,Hillcrest High,Alvord Unified,Riverside,391.0,17.0,22.0,22.0,22.0,21.0,11.0,64.71
+411,Hillsdale High,San Mateo Union High,San Mateo,356.0,65.0,26.0,25.0,25.0,25.0,55.0,84.62
+412,Hilltop Senior High,Sweetwater Union High,San Diego,599.0,73.0,21.0,20.0,20.0,21.0,36.0,49.32
+413,Hilmar High,Hilmar Unified,Merced,154.0,26.0,22.0,20.0,20.0,20.0,11.0,42.31
+414,Hiram W. Johnson High,Sacramento City Unified,Sacramento,364.0,28.0,15.0,15.0,18.0,17.0,1.0,3.57
+415,Hollywood Senior High,Los Angeles Unified,Los Angeles,334.0,48.0,20.0,20.0,19.0,20.0,21.0,43.75
+416,Holtville High,Holtville Unified,Imperial,138.0,29.0,20.0,18.0,20.0,19.0,9.0,31.03
+417,Homestead High,Fremont Union High,Santa Clara,605.0,197.0,30.0,30.0,30.0,29.0,185.0,93.91
+418,Hoover High,San Diego Unified,San Diego,489.0,206.0,18.0,17.0,18.0,18.0,49.0,23.79
+419,Hueneme High,Oxnard Union High,Ventura,491.0,30.0,21.0,19.0,20.0,19.0,13.0,43.33
+420,Huntington Beach High,Huntington Beach Union High,Orange,718.0,205.0,25.0,24.0,24.0,23.0,159.0,77.56
+421,Huntington Park Senior High,Los Angeles Unified,Los Angeles,301.0,44.0,16.0,16.0,17.0,17.0,7.0,15.91
+422,ICEF View Park Preparatory High,Los Angeles Unified,Los Angeles,120.0,21.0,18.0,17.0,16.0,16.0,3.0,14.29
+423,Impact Academy of Arts & Technology,Hayward Unified,Alameda,102.0,23.0,18.0,18.0,19.0,18.0,5.0,21.74
+424,Imperial High,Imperial Unified,Imperial,279.0,65.0,23.0,22.0,21.0,22.0,35.0,53.85
+425,Independence High,East Side Union High,Santa Clara,683.0,86.0,21.0,20.0,21.0,21.0,40.0,46.51
+426,Independence High,Kern High,Kern,511.0,41.0,20.0,20.0,19.0,20.0,15.0,36.59
+427,Inderkum High,Natomas Unified,Sacramento,471.0,463.0,18.0,16.0,18.0,17.0,110.0,23.76
+428,Indian Springs High,San Bernardino City Unified,San Bernardino,382.0,110.0,17.0,16.0,17.0,17.0,20.0,18.18
+429,Indio High,Desert Sands Unified,Riverside,517.0,45.0,18.0,17.0,17.0,18.0,9.0,20.0
+430,Inglewood High,Inglewood Unified,Los Angeles,176.0,60.0,16.0,16.0,16.0,16.0,6.0,10.0
+431,International Polytechnic High,Los Angeles County Office of Education,Los Angeles,131.0,54.0,26.0,25.0,23.0,23.0,44.0,81.48
+432,International Studies Learning Center at Legacy High School Complex,Los Angeles Unified,Los Angeles,84.0,36.0,19.0,18.0,18.0,18.0,10.0,27.78
+433,Irvine High,Irvine Unified,Orange,533.0,139.0,28.0,29.0,29.0,28.0,127.0,91.37
+434,Irvington High,Fremont Unified,Alameda,497.0,111.0,30.0,31.0,30.0,29.0,103.0,92.79
+435,James A. Garfield Senior High,Los Angeles Unified,Los Angeles,581.0,269.0,18.0,17.0,19.0,17.0,56.0,20.82
+436,James C. Enochs High,Modesto City High,Stanislaus,577.0,88.0,23.0,22.0,22.0,22.0,54.0,61.36
+437,James Logan High,New Haven Unified,Alameda,885.0,132.0,24.0,23.0,24.0,24.0,90.0,68.18
+438,James Monroe High,Los Angeles Unified,Los Angeles,510.0,51.0,20.0,19.0,20.0,19.0,18.0,35.29
+439,Jefferson High,Jefferson Union High,San Mateo,260.0,19.0,19.0,20.0,19.0,19.0,9.0,47.37
+440,Jesse M. Bethel High,Vallejo City Unified,Solano,380.0,44.0,20.0,18.0,18.0,19.0,13.0,29.55
+441,John A. Rowland High,Rowland Unified,Los Angeles,513.0,51.0,25.0,25.0,26.0,25.0,42.0,82.35
+442,John C. Kimball High,Tracy Joint Unified,San Joaquin,349.0,25.0,24.0,22.0,23.0,23.0,16.0,64.0
+443,John F. Kennedy High,Sacramento City Unified,Sacramento,537.0,70.0,24.0,22.0,24.0,23.0,47.0,67.14
+444,John F. Kennedy High,Corona-Norco Unified,Riverside,232.0,59.0,22.0,22.0,20.0,21.0,33.0,55.93
+445,John F. Kennedy High,Fremont Unified,Alameda,310.0,38.0,26.0,25.0,25.0,24.0,29.0,76.32
+446,John F. Kennedy High,West Contra Costa Unified,Contra Costa,197.0,15.0,16.0,16.0,16.0,14.0,0.0,0.0
+447,John F. Kennedy High,Anaheim Union High,Orange,654.0,55.0,23.0,23.0,23.0,23.0,35.0,63.64
+448,John F. Kennedy High,Los Angeles Unified,Los Angeles,463.0,32.0,21.0,20.0,21.0,20.0,14.0,43.75
+449,John H. Francis Polytechnic,Los Angeles Unified,Los Angeles,675.0,44.0,23.0,22.0,24.0,23.0,26.0,59.09
+450,John H. Glenn High,Norwalk-La Mirada Unified,Los Angeles,314.0,43.0,16.0,16.0,17.0,17.0,8.0,18.6
+451,John H. Pitman High,Turlock Unified,Stanislaus,511.0,52.0,23.0,22.0,22.0,22.0,32.0,61.54
+452,John Marshall Senior High,Los Angeles Unified,Los Angeles,552.0,77.0,23.0,22.0,22.0,22.0,49.0,63.64
+453,John Muir High,Pasadena Unified,Los Angeles,236.0,30.0,18.0,18.0,18.0,19.0,7.0,23.33
+454,John W. North High,Riverside Unified,Riverside,501.0,118.0,20.0,19.0,20.0,20.0,45.0,38.14
+455,Jordan (June) School for Equity,San Francisco Unified,San Francisco,65.0,33.0,16.0,14.0,16.0,15.0,4.0,12.12
+456,Jordan High,Long Beach Unified,Los Angeles,606.0,107.0,17.0,16.0,18.0,18.0,22.0,20.56
+457,Joseph A. Gregori High,Modesto City High,Stanislaus,539.0,80.0,24.0,23.0,23.0,23.0,53.0,66.25
+458,Jurupa Hills High,Fontana Unified,San Bernardino,466.0,424.0,16.0,14.0,16.0,16.0,45.0,10.61
+459,Jurupa Valley High,Jurupa Unified,Riverside,383.0,98.0,18.0,17.0,19.0,19.0,27.0,27.55
+460,Katella High,Anaheim Union High,Orange,651.0,18.0,20.0,18.0,18.0,20.0,7.0,38.89
+461,Kearny SCT,San Diego Unified,San Diego,77.0,15.0,21.0,19.0,21.0,22.0,7.0,46.67
+462,Kelseyville High,Kelseyville Unified,Lake,124.0,18.0,19.0,19.0,19.0,18.0,7.0,38.89
+463,Kerman High,Kerman Unified,Fresno,382.0,38.0,22.0,21.0,21.0,23.0,18.0,47.37
+464,Kern Valley High,Kern High,Kern,113.0,20.0,22.0,21.0,21.0,22.0,13.0,65.0
+465,King City High,South Monterey County Joint Union High,Monterey,221.0,35.0,19.0,19.0,18.0,19.0,9.0,25.71
+466,King/Drew Medical Magnet High,Los Angeles Unified,Los Angeles,334.0,102.0,21.0,19.0,19.0,19.0,40.0,39.22
+467,King-Chavez Community High,San Diego Unified,San Diego,87.0,17.0,16.0,13.0,16.0,15.0,0.0,0.0
+468,Kingsburg High,Kingsburg Joint Union High,Fresno,246.0,41.0,23.0,21.0,22.0,21.0,26.0,63.41
+469,KIPP King Collegiate High,San Lorenzo Unified,Alameda,144.0,108.0,21.0,21.0,22.0,21.0,58.0,53.7
+470,KIPP San Francisco College Preparatory,San Francisco Unified,San Francisco,53.0,50.0,20.0,19.0,19.0,19.0,20.0,40.0
+471,KIPP San Jose Collegiate,East Side Union High,Santa Clara,112.0,100.0,20.0,20.0,20.0,20.0,40.0,40.0
+472,L.A. County High School for the Arts,Los Angeles County Office of Education,Los Angeles,128.0,36.0,26.0,26.0,21.0,22.0,25.0,69.44
+473,La Canada High,La Canada Unified,Los Angeles,346.0,138.0,29.0,29.0,29.0,28.0,130.0,94.2
+474,La Costa Canyon High,San Dieguito Union High,San Diego,523.0,248.0,25.0,26.0,25.0,25.0,207.0,83.47
+475,La Habra High,Fullerton Joint Union High,Orange,539.0,59.0,24.0,23.0,22.0,22.0,39.0,66.1
+476,La Jolla High,San Diego Unified,San Diego,339.0,112.0,29.0,29.0,27.0,27.0,106.0,94.64
+477,La Mirada High,Norwalk-La Mirada Unified,Los Angeles,468.0,42.0,24.0,23.0,21.0,21.0,29.0,69.05
+478,La Puente High,Hacienda la Puente Unified,Los Angeles,254.0,41.0,22.0,20.0,21.0,20.0,25.0,60.98
+479,La Quinta High,Garden Grove Unified,Orange,561.0,199.0,24.0,25.0,25.0,23.0,159.0,79.9
+480,La Quinta High,Desert Sands Unified,Riverside,618.0,62.0,22.0,20.0,20.0,21.0,30.0,48.39
+481,La Serna High,Whittier Union High,Los Angeles,609.0,70.0,23.0,22.0,23.0,22.0,49.0,70.0
+482,La Sierra High,Alvord Unified,Riverside,418.0,61.0,18.0,18.0,19.0,19.0,15.0,24.59
+483,Laguna Beach High,Laguna Beach Unified,Orange,294.0,165.0,26.0,27.0,26.0,26.0,149.0,90.3
+484,Laguna Creek High,Elk Grove Unified,Sacramento,451.0,85.0,24.0,23.0,23.0,23.0,61.0,71.76
+485,Laguna Hills High,Saddleback Valley Unified,Orange,374.0,66.0,26.0,26.0,25.0,24.0,54.0,81.82
+486,Lakeside High,Lake Elsinore Unified,Riverside,387.0,92.0,19.0,18.0,19.0,19.0,30.0,32.61
+487,Lakewood High,Long Beach Unified,Los Angeles,743.0,38.0,22.0,21.0,21.0,21.0,22.0,57.89
+488,Lancaster High,Antelope Valley Union High,Los Angeles,575.0,45.0,21.0,21.0,19.0,20.0,19.0,42.22
+489,Las Lomas High,Acalanes Union High,Contra Costa,367.0,128.0,26.0,26.0,25.0,25.0,107.0,83.59
+490,Lassen High,Lassen Union High,Lassen,188.0,27.0,22.0,21.0,21.0,21.0,15.0,55.56
+491,Lathrop High,Manteca Unified,San Joaquin,321.0,32.0,21.0,21.0,21.0,21.0,17.0,53.13
+492,Lawndale High,Centinela Valley Union High,Los Angeles,553.0,28.0,18.0,17.0,17.0,18.0,5.0,17.86
+493,Le Grand High,Le Grand Union High,Merced,95.0,33.0,17.0,15.0,17.0,17.0,4.0,12.12
+494,Leadership High,San Francisco Unified,San Francisco,75.0,26.0,17.0,15.0,16.0,16.0,2.0,7.69
+495,Leadership Public Schools - Hayward,Hayward Unified,Alameda,140.0,134.0,19.0,18.0,19.0,19.0,39.0,29.1
+496,Leadership Public Schools: Richmond,West Contra Costa Unified,Contra Costa,149.0,148.0,17.0,15.0,17.0,16.0,18.0,12.16
+497,Leigh High,Campbell Union High,Santa Clara,415.0,133.0,28.0,28.0,28.0,27.0,120.0,90.23
+498,Leland High,San Jose Unified,Santa Clara,454.0,164.0,29.0,30.0,29.0,28.0,148.0,90.24
+499,Lemoore High,Lemoore Union High,Kings,410.0,81.0,20.0,19.0,19.0,19.0,28.0,34.57
+500,Lennox Mathematics Science and Technology Academy,Lennox,Los Angeles,143.0,105.0,18.0,17.0,19.0,18.0,27.0,25.71
+501,Leroy Greene Academy,Natomas Unified,Sacramento,67.0,69.0,17.0,16.0,17.0,17.0,9.0,13.04
+502,Leuzinger High,Centinela Valley Union High,Los Angeles,415.0,33.0,18.0,17.0,17.0,17.0,4.0,12.12
+503,Liberty High,Golden Valley Unified,Madera,138.0,17.0,23.0,24.0,22.0,22.0,12.0,70.59
+504,Liberty High,Kern High,Kern,540.0,60.0,23.0,22.0,22.0,22.0,42.0,70.0
+505,Liberty High,Liberty Union High,Contra Costa,610.0,82.0,24.0,22.0,22.0,22.0,55.0,67.07
+506,Liberty Ranch High,Galt Joint Union High,Sacramento,315.0,32.0,23.0,23.0,22.0,22.0,23.0,71.88
+507,LIFE Academy,Oakland Unified,Alameda,65.0,27.0,20.0,20.0,20.0,20.0,13.0,48.15
+508,Lifeline Education Charter,Compton Unified,Los Angeles,59.0,36.0,16.0,14.0,16.0,15.0,4.0,11.11
+509,Lincoln (Abraham) High,San Francisco Unified,San Francisco,519.0,112.0,22.0,21.0,22.0,21.0,64.0,57.14
+510,Lincoln High,San Diego Unified,San Diego,364.0,81.0,18.0,17.0,18.0,18.0,13.0,16.05
+511,Lincoln High,Western Placer Unified,Placer,414.0,57.0,24.0,23.0,22.0,23.0,38.0,66.67
+512,Lincoln High,Lincoln Unified,San Joaquin,676.0,59.0,23.0,22.0,23.0,23.0,43.0,72.88
+513,Linda Esperanza Marquez High A Huntington Park Institute of Applied Medicine,Los Angeles Unified,Los Angeles,144.0,88.0,16.0,16.0,17.0,17.0,8.0,9.09
+514,Linda Esperanza Marquez High B LIBRA Academy,Los Angeles Unified,Los Angeles,141.0,37.0,18.0,18.0,18.0,18.0,10.0,27.03
+515,Linda Esperanza Marquez High C School of Social Justice,Los Angeles Unified,Los Angeles,122.0,61.0,16.0,15.0,16.0,17.0,4.0,6.56
+516,Linden High,Linden Unified,San Joaquin,151.0,33.0,22.0,21.0,20.0,21.0,13.0,39.39
+517,Lindhurst High,Marysville Joint Unified,Yuba,214.0,19.0,22.0,18.0,20.0,20.0,8.0,42.11
+518,Literacy First Charter,San Diego County Office of Education,San Diego,80.0,18.0,23.0,23.0,25.0,24.0,14.0,77.78
+519,Littlerock High,Antelope Valley Union High,Los Angeles,336.0,25.0,16.0,15.0,16.0,16.0,2.0,8.0
+520,Live Oak High,Live Oak Unified,Sutter,129.0,33.0,19.0,20.0,20.0,20.0,12.0,36.36
+521,Live Oak High,Morgan Hill Unified,Santa Clara,261.0,32.0,23.0,22.0,22.0,21.0,20.0,62.5
+522,Livermore High,Livermore Valley Joint Unified,Alameda,437.0,99.0,25.0,24.0,24.0,24.0,80.0,80.81
+523,Livingston High,Merced Union High,Merced,291.0,51.0,20.0,18.0,19.0,20.0,17.0,33.33
+524,Loara High,Anaheim Union High,Orange,482.0,53.0,18.0,18.0,18.0,19.0,13.0,24.53
+525,Lodi High,Lodi Unified,San Joaquin,508.0,121.0,23.0,22.0,23.0,22.0,77.0,63.64
+526,Los Alamitos High,Los Alamitos Unified,Orange,758.0,262.0,26.0,27.0,26.0,25.0,214.0,81.68
+527,Los Altos High,Hacienda la Puente Unified,Los Angeles,411.0,30.0,21.0,21.0,21.0,22.0,18.0,60.0
+528,Los Altos High,Mountain View-Los Altos Union High,Santa Clara,525.0,168.0,29.0,29.0,28.0,28.0,153.0,91.07
+529,Los Amigos High,Garden Grove Unified,Orange,416.0,163.0,18.0,17.0,18.0,18.0,41.0,25.15
+530,Los Angeles Center for Enriched Studies,Los Angeles Unified,Los Angeles,210.0,61.0,27.0,28.0,28.0,27.0,56.0,91.8
+531,Los Angeles High School of the Arts,Los Angeles Unified,Los Angeles,108.0,17.0,22.0,22.0,18.0,20.0,10.0,58.82
+532,Los Banos High,Los Banos Unified,Merced,303.0,19.0,21.0,20.0,20.0,20.0,8.0,42.11
+533,Los Gatos High,Los Gatos-Saratoga Joint Union High,Santa Clara,544.0,187.0,29.0,29.0,28.0,28.0,179.0,95.72
+534,Los Molinos High,Los Molinos Unified,Tehama,37.0,38.0,17.0,15.0,17.0,17.0,9.0,23.68
+535,Los Osos High,Chaffey Joint Union High,San Bernardino,763.0,149.0,24.0,24.0,25.0,24.0,106.0,71.14
+536,Lowell High,San Francisco Unified,San Francisco,678.0,244.0,28.0,28.0,28.0,26.0,219.0,89.75
+537,LPS Oakland R & D Campus,Oakland Unified,Alameda,111.0,99.0,15.0,13.0,16.0,16.0,4.0,4.04
+538,Luis Valdez Leadership Academy,East Side Union High,Santa Clara,102.0,22.0,17.0,15.0,16.0,15.0,2.0,9.09
+539,Luther Burbank High,Sacramento City Unified,Sacramento,449.0,62.0,18.0,16.0,17.0,18.0,12.0,19.35
+540,Lynbrook High,Fremont Union High,Santa Clara,415.0,172.0,32.0,32.0,32.0,31.0,165.0,95.93
+541,Lynwood High,Lynwood Unified,Los Angeles,473.0,92.0,18.0,17.0,17.0,17.0,18.0,19.57
+542,Madera High,Madera Unified,Madera,467.0,128.0,20.0,19.0,19.0,20.0,47.0,36.72
+543,Madera South High,Madera Unified,Madera,621.0,141.0,17.0,15.0,17.0,17.0,18.0,12.77
+544,Madison High,San Diego Unified,San Diego,221.0,39.0,20.0,19.0,19.0,20.0,16.0,41.03
+545,Making Waves Academy,Contra Costa County Office of Education,Contra Costa,83.0,20.0,20.0,19.0,20.0,19.0,10.0,50.0
+546,Malibu High,Santa Monica-Malibu Unified,Los Angeles,157.0,36.0,26.0,26.0,24.0,24.0,28.0,77.78
+547,Mammoth High,Mammoth Unified,Mono,98.0,19.0,26.0,25.0,23.0,24.0,15.0,78.95
+548,Manteca High,Manteca Unified,San Joaquin,372.0,16.0,23.0,23.0,22.0,22.0,9.0,56.25
+549,Manual Arts Senior High,Los Angeles Unified,Los Angeles,377.0,80.0,15.0,14.0,16.0,16.0,5.0,6.25
+550,Mar Vista Senior High,Sweetwater Union High,San Diego,417.0,55.0,20.0,19.0,19.0,20.0,21.0,38.18
+551,Marco Antonio Firebaugh High,Lynwood Unified,Los Angeles,357.0,68.0,18.0,17.0,17.0,17.0,10.0,14.71
+552,Maria Carrillo High,Santa Rosa High,Sonoma,352.0,81.0,29.0,28.0,27.0,27.0,76.0,93.83
+553,Marina High,Huntington Beach Union High,Orange,622.0,84.0,27.0,26.0,26.0,25.0,69.0,82.14
+554,Mariposa County High,Mariposa County Unified,Mariposa,134.0,16.0,24.0,22.0,23.0,22.0,8.0,50.0
+555,Mark Keppel High,Alhambra Unified,Los Angeles,579.0,91.0,27.0,27.0,27.0,26.0,81.0,89.01
+556,Marshall (Thurgood) High,San Francisco Unified,San Francisco,104.0,23.0,16.0,14.0,18.0,17.0,4.0,17.39
+557,Marshall Fundamental,Pasadena Unified,Los Angeles,269.0,50.0,24.0,23.0,23.0,23.0,36.0,72.0
+558,Martin Luther King Jr. High,Riverside Unified,Riverside,759.0,148.0,24.0,23.0,24.0,24.0,103.0,69.59
+559,Marysville High,Marysville Joint Unified,Yuba,173.0,22.0,19.0,18.0,19.0,18.0,8.0,36.36
+560,Math and Science College Preparatory,Los Angeles Unified,Los Angeles,155.0,148.0,16.0,16.0,18.0,17.0,28.0,18.92
+561,Math Science & Technology Magnet Academy at Roosevelt High,Los Angeles Unified,Los Angeles,104.0,66.0,19.0,19.0,19.0,19.0,21.0,31.82
+562,Mayfair High,Bellflower Unified,Los Angeles,452.0,24.0,25.0,24.0,22.0,23.0,19.0,79.17
+563,Maywood Academy High,Los Angeles Unified,Los Angeles,249.0,26.0,18.0,16.0,17.0,18.0,5.0,19.23
+564,McClymonds High,Oakland Unified,Alameda,77.0,45.0,14.0,13.0,15.0,14.0,5.0,11.11
+565,McFarland High,McFarland Unified,Kern,203.0,16.0,18.0,16.0,19.0,17.0,4.0,25.0
+566,McLane High,Fresno Unified,Fresno,366.0,51.0,17.0,15.0,17.0,17.0,6.0,11.76
+567,Mendota High,Mendota Unified,Fresno,223.0,82.0,16.0,15.0,17.0,16.0,7.0,8.54
+568,Menlo-Atherton High,Sequoia Union High,San Mateo,644.0,133.0,28.0,27.0,27.0,26.0,107.0,80.45
+569,Merced High,Merced Union High,Merced,400.0,52.0,20.0,19.0,20.0,20.0,22.0,42.31
+570,Merrill F. West High,Tracy Joint Unified,San Joaquin,481.0,65.0,20.0,19.0,19.0,20.0,20.0,30.77
+571,Mesa Verde High,San Juan Unified,Sacramento,211.0,27.0,20.0,19.0,19.0,19.0,10.0,37.04
+572,Middle College High,West Contra Costa Unified,Contra Costa,72.0,21.0,22.0,20.0,20.0,20.0,11.0,52.38
+573,Middle College High,Santa Ana Unified,Orange,86.0,79.0,19.0,17.0,19.0,19.0,19.0,24.05
+574,Middle College High,Lodi Unified,San Joaquin,61.0,44.0,26.0,26.0,24.0,24.0,35.0,79.55
+575,Middle College High,Los Angeles Unified,Los Angeles,88.0,26.0,19.0,19.0,19.0,18.0,8.0,30.77
+576,Middle College High,San Bernardino City Unified,San Bernardino,67.0,47.0,20.0,19.0,20.0,20.0,17.0,36.17
+577,Millikan High,Long Beach Unified,Los Angeles,824.0,71.0,24.0,23.0,23.0,23.0,50.0,70.42
+578,Mills High,San Mateo Union High,San Mateo,299.0,82.0,27.0,27.0,28.0,27.0,72.0,87.8
+579,Milpitas High,Milpitas Unified,Santa Clara,762.0,72.0,26.0,27.0,27.0,26.0,64.0,88.89
+580,Minarets Charter High,Chawanakee Unified,Madera,71.0,17.0,22.0,20.0,20.0,21.0,9.0,52.94
+581,Mira Costa High,Manhattan Beach Unified,Los Angeles,594.0,269.0,28.0,28.0,27.0,27.0,245.0,91.08
+582,Mira Loma High,San Juan Unified,Sacramento,454.0,71.0,29.0,30.0,29.0,28.0,65.0,91.55
+583,Mira Mesa High,San Diego Unified,San Diego,620.0,65.0,23.0,22.0,23.0,22.0,40.0,61.54
+584,Miramonte High,Acalanes Union High,Contra Costa,319.0,149.0,29.0,29.0,28.0,28.0,137.0,91.95
+585,Mission Bay High,San Diego Unified,San Diego,226.0,51.0,22.0,21.0,21.0,21.0,25.0,49.02
+586,Mission High,San Francisco Unified,San Francisco,324.0,98.0,17.0,15.0,17.0,16.0,16.0,16.33
+587,Mission Hills High,San Marcos Unified,San Diego,584.0,178.0,23.0,21.0,21.0,22.0,93.0,52.25
+588,Mission Oak High,Tulare Joint Union High,Tulare,368.0,18.0,21.0,21.0,21.0,21.0,6.0,33.33
+589,Mission San Jose High,Fremont Unified,Alameda,490.0,157.0,31.0,32.0,32.0,30.0,151.0,96.18
+590,Mission Viejo High,Saddleback Valley Unified,Orange,562.0,148.0,26.0,25.0,25.0,25.0,117.0,79.05
+591,Mission Vista High,Vista Unified,San Diego,391.0,92.0,27.0,25.0,25.0,24.0,79.0,85.87
+592,MIT Academy,Vallejo City Unified,Solano,121.0,15.0,20.0,20.0,18.0,20.0,5.0,33.33
+593,Modesto High,Modesto City High,Stanislaus,585.0,163.0,20.0,19.0,20.0,19.0,61.0,37.42
+594,Modoc High,Modoc Joint Unified,Modoc,55.0,40.0,17.0,15.0,17.0,18.0,10.0,25.0
+595,Mojave Jr./Sr. High,Mojave Unified,Kern,36.0,27.0,16.0,13.0,16.0,16.0,2.0,7.41
+596,Monache High,Porterville Unified,Tulare,464.0,105.0,19.0,17.0,18.0,19.0,30.0,28.57
+597,Monrovia High,Monrovia Unified,Los Angeles,393.0,53.0,21.0,19.0,19.0,19.0,16.0,30.19
+598,Monta Vista High,Fremont Union High,Santa Clara,584.0,212.0,31.0,32.0,32.0,31.0,206.0,97.17
+599,Montclair High,Chaffey Joint Union High,San Bernardino,705.0,257.0,19.0,17.0,19.0,19.0,80.0,31.13
+600,Monte Vista High,Grossmont Union High,San Diego,456.0,22.0,26.0,24.0,25.0,24.0,15.0,68.18
+601,Monte Vista High,San Ramon Valley Unified,Contra Costa,597.0,293.0,27.0,27.0,26.0,26.0,263.0,89.76
+602,Montebello High,Montebello Unified,Los Angeles,628.0,35.0,18.0,18.0,19.0,18.0,9.0,25.71
+603,Monterey High,Monterey Peninsula Unified,Monterey,348.0,45.0,23.0,22.0,22.0,21.0,26.0,57.78
+604,Monterey Trail High,Elk Grove Unified,Sacramento,583.0,117.0,21.0,20.0,21.0,21.0,56.0,47.86
+605,Montgomery High,Santa Rosa High,Sonoma,354.0,47.0,24.0,23.0,25.0,24.0,37.0,78.72
+606,Montgomery Senior High,Sweetwater Union High,San Diego,452.0,62.0,18.0,18.0,18.0,19.0,19.0,30.65
+607,Moorpark High,Moorpark Unified,Ventura,457.0,108.0,25.0,24.0,25.0,24.0,85.0,78.7
+608,Moreno Valley High,Moreno Valley Unified,Riverside,540.0,39.0,21.0,19.0,20.0,19.0,18.0,46.15
+609,Morningside High,Inglewood Unified,Los Angeles,193.0,51.0,17.0,15.0,16.0,16.0,2.0,3.92
+610,Morro Bay High,San Luis Coastal Unified,San Luis Obispo,197.0,35.0,26.0,25.0,23.0,24.0,27.0,77.14
+611,Morse High,San Diego Unified,San Diego,374.0,55.0,21.0,21.0,21.0,20.0,31.0,56.36
+612,Mount Miguel High,Grossmont Union High,San Diego,322.0,27.0,19.0,18.0,20.0,19.0,10.0,37.04
+613,Mountain House High,Lammersville Joint Unified,San Joaquin,283.0,52.0,28.0,27.0,26.0,26.0,46.0,88.46
+614,Mountain View High,Mountain View-Los Altos Union High,Santa Clara,487.0,174.0,28.0,28.0,27.0,27.0,144.0,82.76
+615,Mountain View High,El Monte Union High,Los Angeles,330.0,51.0,21.0,19.0,19.0,19.0,20.0,39.22
+616,Mt. Carmel High,Poway Unified,San Diego,476.0,134.0,27.0,26.0,26.0,25.0,109.0,81.34
+617,Mt. Diablo High,Mt. Diablo Unified,Contra Costa,255.0,30.0,19.0,18.0,19.0,19.0,9.0,30.0
+618,Mt. Eden High,Hayward Unified,Alameda,459.0,38.0,22.0,21.0,20.0,21.0,22.0,57.89
+619,Mt. Whitney High,Visalia Unified,Tulare,397.0,20.0,22.0,20.0,21.0,21.0,11.0,55.0
+620,Murrieta Mesa High,Murrieta Valley Unified,Riverside,574.0,151.0,22.0,21.0,21.0,21.0,80.0,52.98
+621,Murrieta Valley High,Murrieta Valley Unified,Riverside,572.0,142.0,23.0,22.0,22.0,22.0,96.0,67.61
+622,Napa High,Napa Valley Unified,Napa,432.0,59.0,22.0,22.0,22.0,22.0,36.0,61.02
+623,Nathaniel Narbonne Senior High,Los Angeles Unified,Los Angeles,543.0,50.0,21.0,19.0,20.0,21.0,23.0,46.0
+624,Natomas Charter,Natomas Unified,Sacramento,117.0,18.0,23.0,24.0,22.0,22.0,12.0,66.67
+625,Natomas High,Natomas Unified,Sacramento,243.0,199.0,15.0,13.0,16.0,15.0,18.0,9.05
+626,Natomas Pacific Pathways Prep,Natomas Unified,Sacramento,155.0,17.0,25.0,23.0,23.0,22.0,13.0,76.47
+627,Nevada Union High,Nevada Joint Union High,Nevada,353.0,34.0,27.0,25.0,25.0,24.0,27.0,79.41
+628,New Designs Charter,Los Angeles Unified,Los Angeles,86.0,68.0,17.0,16.0,18.0,17.0,7.0,10.29
+629,New Designs Charter School-Watts,Los Angeles Unified,Los Angeles,47.0,25.0,14.0,11.0,15.0,15.0,0.0,0.0
+630,New West Charter,SBE - New West Charter,Los Angeles,90.0,19.0,27.0,28.0,24.0,25.0,16.0,84.21
+631,Newark Memorial High,Newark Unified,Alameda,397.0,31.0,22.0,22.0,22.0,22.0,22.0,70.97
+632,Newbury Park High,Conejo Valley Unified,Ventura,596.0,154.0,27.0,26.0,26.0,25.0,127.0,82.47
+633,Newport Harbor High,Newport-Mesa Unified,Orange,548.0,237.0,25.0,25.0,24.0,24.0,169.0,71.31
+634,Nipomo High,Lucia Mar Unified,San Luis Obispo,226.0,23.0,22.0,21.0,21.0,23.0,14.0,60.87
+635,Nogales High,Rowland Unified,Los Angeles,433.0,68.0,19.0,17.0,18.0,19.0,16.0,23.53
+636,Norco High,Corona-Norco Unified,Riverside,472.0,58.0,23.0,21.0,22.0,22.0,37.0,63.79
+637,Nordhoff High,Ojai Unified,Ventura,157.0,15.0,26.0,26.0,24.0,24.0,13.0,86.67
+638,Norte Vista High,Alvord Unified,Riverside,483.0,63.0,20.0,18.0,19.0,18.0,18.0,28.57
+639,North High,Kern High,Kern,404.0,16.0,22.0,20.0,20.0,21.0,8.0,50.0
+640,North High,Torrance Unified,Los Angeles,448.0,73.0,24.0,23.0,24.0,23.0,50.0,68.49
+641,North Hollywood Senior High,Los Angeles Unified,Los Angeles,573.0,52.0,27.0,27.0,26.0,25.0,38.0,73.08
+642,North Monterey County High,North Monterey County Unified,Monterey,297.0,42.0,19.0,17.0,18.0,20.0,10.0,23.81
+643,North Salinas High,Salinas Union High,Monterey,498.0,50.0,20.0,19.0,19.0,19.0,16.0,32.0
+644,North Tahoe High,Tahoe-Truckee Unified,Placer,103.0,32.0,26.0,24.0,25.0,25.0,26.0,81.25
+645,Northgate High,Mt. Diablo Unified,Contra Costa,364.0,180.0,27.0,27.0,26.0,26.0,148.0,82.22
+646,Northview High,Covina-Valley Unified,Los Angeles,325.0,46.0,20.0,18.0,20.0,19.0,15.0,32.61
+647,Northwood High,Irvine Unified,Orange,623.0,234.0,29.0,30.0,29.0,29.0,218.0,93.16
+648,Norwalk High,Norwalk-La Mirada Unified,Los Angeles,453.0,86.0,19.0,17.0,17.0,18.0,19.0,22.09
+649,NOVA Academy - Coachella,Coachella Valley Unified,Riverside,38.0,15.0,20.0,18.0,19.0,19.0,5.0,33.33
+650,Nova Academy Early College High,Santa Ana Unified,Orange,98.0,42.0,19.0,17.0,18.0,19.0,11.0,26.19
+651,Novato High,Novato Unified,Marin,326.0,88.0,23.0,23.0,23.0,22.0,54.0,61.36
+652,Nuview Bridge Early College High,Nuview Union,Riverside,157.0,169.0,19.0,17.0,20.0,19.0,58.0,34.32
+653,Oak Grove High,East Side Union High,Santa Clara,399.0,37.0,23.0,22.0,23.0,22.0,21.0,56.76
+654,Oak Hills High,Hesperia Unified,San Bernardino,570.0,154.0,20.0,18.0,20.0,19.0,58.0,37.66
+655,Oak Park High,Oak Park Unified,Ventura,377.0,152.0,29.0,29.0,27.0,27.0,143.0,94.08
+656,Oak Ridge High,El Dorado Union High,El Dorado,592.0,201.0,26.0,26.0,27.0,26.0,181.0,90.05
+657,Oakdale High,Oakdale Joint Unified,Stanislaus,350.0,37.0,25.0,24.0,24.0,23.0,26.0,70.27
+658,Oakland Charter High,Oakland Unified,Alameda,110.0,18.0,23.0,22.0,25.0,22.0,11.0,61.11
+659,Oakland High,Oakland Unified,Alameda,328.0,74.0,19.0,19.0,19.0,19.0,30.0,40.54
+660,Oakland School for the Arts,Oakland Unified,Alameda,103.0,30.0,26.0,26.0,21.0,23.0,22.0,73.33
+661,Oakland Technical High,Oakland Unified,Alameda,492.0,131.0,26.0,25.0,25.0,24.0,96.0,73.28
+662,Oakland Unity High,Oakland Unified,Alameda,81.0,53.0,17.0,15.0,19.0,18.0,12.0,22.64
+663,Oakmont High,Roseville Joint Union High,Placer,482.0,74.0,26.0,25.0,25.0,25.0,62.0,83.78
+664,Ocean View High,Huntington Beach Union High,Orange,324.0,19.0,23.0,23.0,22.0,24.0,12.0,63.16
+665,Oceanside High,Oceanside Unified,San Diego,530.0,76.0,21.0,19.0,20.0,20.0,34.0,44.74
+666,O'Connell (John) High,San Francisco Unified,San Francisco,99.0,38.0,17.0,16.0,17.0,18.0,7.0,18.42
+667,OCSA,Santa Ana Unified,Orange,379.0,190.0,29.0,29.0,25.0,26.0,171.0,90.0
+668,Olympian High,Sweetwater Union High,San Diego,631.0,98.0,23.0,22.0,22.0,22.0,62.0,63.27
+669,Ontario High,Chaffey Joint Union High,San Bernardino,588.0,81.0,19.0,17.0,19.0,18.0,19.0,23.46
+670,Orange Cove High,Kings Canyon Joint Unified,Fresno,122.0,33.0,16.0,15.0,16.0,16.0,2.0,6.06
+671,Orange Glen High,Escondido Union High,San Diego,497.0,101.0,19.0,18.0,18.0,19.0,24.0,23.76
+672,Orcutt Academy Charter,Orcutt Union Elementary,Santa Barbara,145.0,49.0,25.0,26.0,25.0,25.0,40.0,81.63
+673,Orestimba High,Newman-Crows Landing Unified,Stanislaus,216.0,18.0,23.0,22.0,23.0,22.0,10.0,55.56
+674,Orland High,Orland Joint Unified,Glenn,166.0,37.0,23.0,21.0,19.0,21.0,17.0,45.95
+675,Orosi High,Cutler-Orosi Joint Unified,Tulare,237.0,85.0,17.0,15.0,17.0,17.0,10.0,11.76
+676,Oroville High,Oroville Union High,Butte,225.0,19.0,21.0,19.0,20.0,21.0,7.0,36.84
+677,Orthopaedic Hospital,Los Angeles Unified,Los Angeles,168.0,69.0,18.0,17.0,18.0,19.0,18.0,26.09
+678,Otay Ranch Senior High,Sweetwater Union High,San Diego,626.0,67.0,22.0,21.0,21.0,20.0,35.0,52.24
+679,Oxford Academy,Anaheim Union High,Orange,200.0,56.0,31.0,32.0,30.0,30.0,56.0,100.0
+680,Oxnard High,Oxnard Union High,Ventura,596.0,31.0,21.0,22.0,22.0,21.0,17.0,54.84
+681,Pacheco High,Los Banos Unified,Merced,418.0,39.0,20.0,20.0,19.0,19.0,17.0,43.59
+682,Pacific Collegiate Charter,Santa Cruz County Office of Education,Santa Cruz,90.0,48.0,29.0,29.0,27.0,27.0,46.0,95.83
+683,Pacific Grove High,Pacific Grove Unified,Monterey,138.0,31.0,26.0,27.0,26.0,26.0,26.0,83.87
+684,Pacific High,San Bernardino City Unified,San Bernardino,263.0,77.0,16.0,16.0,16.0,17.0,7.0,9.09
+685,Pacifica High,Garden Grove Unified,Orange,395.0,36.0,24.0,24.0,25.0,24.0,28.0,77.78
+686,Pacifica High,Oxnard Union High,Ventura,726.0,16.0,22.0,20.0,21.0,21.0,8.0,50.0
+687,Pajaro Valley High,Pajaro Valley Unified,Santa Cruz,294.0,71.0,18.0,16.0,17.0,18.0,12.0,16.9
+688,Palisades Charter High,Los Angeles Unified,Los Angeles,714.0,207.0,28.0,28.0,26.0,26.0,174.0,84.06
+689,Palm Desert High,Desert Sands Unified,Riverside,435.0,84.0,26.0,24.0,23.0,24.0,63.0,75.0
+690,Palm Springs High,Palm Springs Unified,Riverside,418.0,119.0,19.0,18.0,19.0,19.0,34.0,28.57
+691,Palmdale Aerospace Academy,Palmdale Elementary,Los Angeles,167.0,31.0,21.0,21.0,20.0,21.0,15.0,48.39
+692,Palmdale High,Antelope Valley Union High,Los Angeles,621.0,24.0,19.0,18.0,17.0,18.0,6.0,25.0
+693,Palo Alto High,Palo Alto Unified,Santa Clara,507.0,231.0,28.0,28.0,28.0,28.0,192.0,83.12
+694,Paloma Valley High,Perris Union High,Riverside,717.0,73.0,21.0,19.0,20.0,20.0,36.0,49.32
+695,Palos Verdes High,Palos Verdes Peninsula Unified,Los Angeles,451.0,208.0,26.0,27.0,26.0,25.0,181.0,87.02
+696,Palos Verdes Peninsula High,Palos Verdes Peninsula Unified,Los Angeles,609.0,217.0,28.0,28.0,27.0,27.0,194.0,89.4
+697,Paradise Senior High,Paradise Unified,Butte,231.0,22.0,23.0,21.0,24.0,23.0,16.0,72.73
+698,Paramount High,Paramount Unified,Los Angeles,1135.0,61.0,21.0,21.0,21.0,22.0,35.0,57.38
+699,Parlier High,Parlier Unified,Fresno,201.0,33.0,18.0,16.0,18.0,18.0,8.0,24.24
+700,Pasadena High,Pasadena Unified,Los Angeles,414.0,47.0,22.0,20.0,20.0,20.0,23.0,48.94
+701,Paso Robles High,Paso Robles Joint Unified,San Luis Obispo,455.0,89.0,23.0,22.0,22.0,22.0,53.0,59.55
+702,Patriot High,Jurupa Unified,Riverside,539.0,37.0,22.0,20.0,21.0,20.0,15.0,40.54
+703,Patterson High,Patterson Joint Unified,Stanislaus,361.0,15.0,24.0,22.0,21.0,21.0,7.0,46.67
+704,Performing Arts Community at Diego Rivera Learning Complex,Los Angeles Unified,Los Angeles,125.0,20.0,16.0,14.0,16.0,15.0,2.0,10.0
+705,Perris High,Perris Union High,Riverside,512.0,152.0,17.0,16.0,17.0,17.0,22.0,14.47
+706,Petaluma High,Petaluma Joint Union High,Sonoma,319.0,78.0,25.0,24.0,23.0,24.0,60.0,76.92
+707,Phineas Banning Senior High,Los Angeles Unified,Los Angeles,545.0,89.0,19.0,17.0,18.0,18.0,19.0,21.35
+708,Piedmont High,Piedmont City Unified,Alameda,205.0,111.0,30.0,32.0,29.0,29.0,108.0,97.3
+709,Piedmont Hills High,East Side Union High,Santa Clara,480.0,48.0,26.0,26.0,27.0,26.0,41.0,85.42
+710,Pierce High,Pierce Joint Unified,Colusa,103.0,16.0,19.0,17.0,19.0,19.0,5.0,31.25
+711,Piner High,Santa Rosa High,Sonoma,338.0,47.0,22.0,20.0,20.0,21.0,21.0,44.68
+712,Pinole Valley High,West Contra Costa Unified,Contra Costa,266.0,33.0,21.0,21.0,21.0,21.0,17.0,51.52
+713,Pioneer High,Whittier Union High,Los Angeles,315.0,88.0,18.0,17.0,20.0,18.0,26.0,29.55
+714,Pioneer High,San Jose Unified,Santa Clara,381.0,92.0,27.0,26.0,25.0,25.0,74.0,80.43
+715,Pioneer High,Woodland Joint Unified,Yolo,350.0,80.0,20.0,19.0,20.0,21.0,31.0,38.75
+716,Pioneer Valley High,Santa Maria Joint Union High,Santa Barbara,587.0,92.0,20.0,19.0,21.0,19.0,39.0,42.39
+717,Pittsburg Senior High,Pittsburg Unified,Contra Costa,716.0,155.0,19.0,19.0,19.0,19.0,45.0,29.03
+718,Placer High,Placer Union High,Placer,343.0,64.0,24.0,22.0,23.0,23.0,39.0,60.94
+719,Pleasant Grove High,Elk Grove Unified,Sacramento,556.0,162.0,26.0,25.0,27.0,25.0,137.0,84.57
+720,Pleasant Valley High,Chico Unified,Butte,462.0,84.0,23.0,23.0,24.0,23.0,60.0,71.43
+721,Point Loma High,San Diego Unified,San Diego,456.0,157.0,26.0,25.0,24.0,25.0,114.0,72.61
+722,Polytechnic High,Riverside Unified,Riverside,600.0,42.0,23.0,21.0,22.0,21.0,23.0,54.76
+723,Polytechnic High,Long Beach Unified,Los Angeles,1007.0,137.0,25.0,24.0,24.0,24.0,95.0,69.34
+724,Pomona High,Pomona Unified,Los Angeles,270.0,58.0,18.0,18.0,18.0,18.0,12.0,20.69
+725,Ponderosa High,El Dorado Union High,El Dorado,420.0,105.0,25.0,24.0,25.0,25.0,83.0,79.05
+726,Port of Los Angeles High,Los Angeles Unified,Los Angeles,202.0,38.0,22.0,21.0,22.0,21.0,25.0,65.79
+727,Porterville High,Porterville Unified,Tulare,435.0,88.0,19.0,18.0,19.0,19.0,30.0,34.09
+728,Poway High,Poway Unified,San Diego,533.0,195.0,24.0,23.0,24.0,23.0,136.0,69.74
+729,Preuss School UCSD,San Diego Unified,San Diego,103.0,100.0,21.0,20.0,20.0,20.0,48.0,48.0
+730,Prospect High,Campbell Union High,Santa Clara,386.0,65.0,26.0,26.0,25.0,26.0,51.0,78.46
+731,PUC CALS Middle School and Early College High,Los Angeles Unified,Los Angeles,58.0,52.0,16.0,16.0,17.0,17.0,8.0,15.38
+732,PUC Community Charter Middle and PUC Community Charter Early College High,Los Angeles Unified,Los Angeles,89.0,83.0,17.0,16.0,18.0,18.0,20.0,24.1
+733,PUC Early College Academy for Leaders and Scholars (ECALS),Los Angeles Unified,Los Angeles,81.0,68.0,15.0,15.0,17.0,17.0,10.0,14.71
+734,PUC Lakeview Charter High,Los Angeles Unified,Los Angeles,100.0,93.0,18.0,17.0,18.0,17.0,22.0,23.66
+735,PUC Nueva Esperanza Charter Academy,Los Angeles Unified,Los Angeles,0.0,22.0,16.0,15.0,17.0,16.0,1.0,4.55
+736,PUC Triumph Charter Academy and PUC Triumph Charter High,Los Angeles Unified,Los Angeles,116.0,89.0,16.0,15.0,17.0,17.0,10.0,11.24
+737,Quartz Hill High,Antelope Valley Union High,Los Angeles,750.0,68.0,26.0,25.0,23.0,24.0,54.0,79.41
+738,Ramon C. Cortines School of Visual and Performing Arts,Los Angeles Unified,Los Angeles,342.0,48.0,21.0,21.0,19.0,20.0,23.0,47.92
+739,Ramona High,Ramona City Unified,San Diego,352.0,80.0,23.0,22.0,23.0,23.0,54.0,67.5
+740,Ramona High,Riverside Unified,Riverside,543.0,127.0,20.0,18.0,19.0,19.0,41.0,32.28
+741,Rancho Bernardo High,Poway Unified,San Diego,597.0,189.0,25.0,25.0,26.0,25.0,151.0,79.89
+742,Rancho Buena Vista High,Vista Unified,San Diego,484.0,63.0,23.0,22.0,23.0,22.0,40.0,63.49
+743,Rancho Campana High,Oxnard Union High,Ventura,166.0,30.0,25.0,25.0,23.0,24.0,25.0,83.33
+744,Rancho Cotate High,Cotati-Rohnert Park Unified,Sonoma,343.0,38.0,20.0,18.0,20.0,20.0,14.0,36.84
+745,Rancho Cucamonga High,Chaffey Joint Union High,San Bernardino,798.0,77.0,23.0,22.0,22.0,22.0,41.0,53.25
+746,Rancho Dominguez Preparatory,Los Angeles Unified,Los Angeles,129.0,43.0,16.0,15.0,17.0,17.0,1.0,2.33
+747,Rancho Mirage High,Palm Springs Unified,Riverside,362.0,36.0,22.0,20.0,19.0,20.0,15.0,41.67
+748,Rancho Verde High,Val Verde Unified,Riverside,505.0,37.0,20.0,19.0,19.0,19.0,13.0,35.14
+749,Red Bluff High,Red Bluff Joint Union High,Tehama,320.0,151.0,20.0,19.0,20.0,20.0,63.0,41.72
+750,Redlands East Valley High,Redlands Unified,San Bernardino,545.0,92.0,23.0,22.0,23.0,22.0,56.0,60.87
+751,Redlands Senior High,Redlands Unified,San Bernardino,569.0,46.0,28.0,27.0,28.0,27.0,42.0,91.3
+752,Redondo Union High,Redondo Beach Unified,Los Angeles,709.0,267.0,24.0,24.0,23.0,24.0,191.0,71.54
+753,Redwood High,Tamalpais Union High,Marin,447.0,176.0,28.0,28.0,27.0,27.0,159.0,90.34
+754,Redwood High,Visalia Unified,Tulare,494.0,74.0,23.0,23.0,22.0,23.0,50.0,67.57
+755,Reedley High,Kings Canyon Joint Unified,Fresno,348.0,105.0,20.0,18.0,18.0,19.0,27.0,25.71
+756,Reedley Middle College High,Kings Canyon Joint Unified,Fresno,34.0,31.0,17.0,16.0,18.0,17.0,5.0,16.13
+757,Renaissance Arts Academy,Los Angeles Unified,Los Angeles,44.0,40.0,23.0,24.0,20.0,21.0,21.0,52.5
+758,Reseda Charter High,Los Angeles Unified,Los Angeles,349.0,18.0,20.0,20.0,20.0,21.0,7.0,38.89
+759,Rialto High,Rialto Unified,San Bernardino,611.0,93.0,19.0,18.0,20.0,20.0,34.0,36.56
+760,Richmond High,West Contra Costa Unified,Contra Costa,386.0,70.0,18.0,16.0,17.0,17.0,10.0,14.29
+761,Ridgeview High,Kern High,Kern,666.0,54.0,19.0,17.0,18.0,19.0,16.0,29.63
+762,Rim of the World Senior High,Rim of the World Unified,San Bernardino,209.0,26.0,25.0,24.0,22.0,24.0,19.0,73.08
+763,Rio Americano High,San Juan Unified,Sacramento,385.0,84.0,25.0,26.0,25.0,24.0,66.0,78.57
+764,Rio Linda High,Twin Rivers Unified,Sacramento,318.0,28.0,20.0,19.0,20.0,20.0,12.0,42.86
+765,Rio Mesa High,Oxnard Union High,Ventura,549.0,37.0,22.0,22.0,22.0,22.0,21.0,56.76
+766,Rio Vista High,River Delta Joint Unified,Sacramento,106.0,22.0,19.0,19.0,18.0,19.0,7.0,31.82
+767,Ripon High,Ripon Unified,San Joaquin,190.0,37.0,25.0,23.0,23.0,23.0,31.0,83.78
+768,River City High,Washington Unified,Yolo,476.0,54.0,21.0,19.0,20.0,20.0,23.0,42.59
+769,River Valley Charter,Lakeside Union Elementary,San Diego,50.0,15.0,28.0,26.0,26.0,27.0,15.0,100.0
+770,River Valley High,Yuba City Unified,Sutter,435.0,59.0,23.0,22.0,22.0,23.0,35.0,59.32
+771,Riverdale High,Riverdale Joint Unified,Fresno,124.0,50.0,16.0,15.0,18.0,18.0,7.0,14.0
+772,Riverside Preparatory,Oro Grande,San Bernardino,117.0,17.0,18.0,18.0,17.0,19.0,5.0,29.41
+773,Riverside STEM Academy,Riverside Unified,Riverside,53.0,22.0,29.0,28.0,25.0,25.0,20.0,90.91
+774,Robert F. Kennedy High,Delano Joint Union High,Kern,304.0,54.0,20.0,18.0,20.0,20.0,21.0,38.89
+775,Rocklin High,Rocklin Unified,Placer,499.0,164.0,25.0,25.0,25.0,24.0,124.0,75.61
+776,Ronald E. McNair High,Lodi Unified,San Joaquin,438.0,62.0,19.0,18.0,20.0,19.0,26.0,41.94
+777,Roosevelt High,Fresno Unified,Fresno,447.0,18.0,16.0,14.0,16.0,17.0,1.0,5.56
+778,Roseland Charter,Roseland,Sonoma,147.0,89.0,17.0,16.0,18.0,18.0,20.0,22.47
+779,Rosemead High,El Monte Union High,Los Angeles,511.0,51.0,26.0,25.0,25.0,24.0,40.0,78.43
+780,Rosemont High,Sacramento City Unified,Sacramento,300.0,32.0,21.0,19.0,20.0,20.0,15.0,46.88
+781,Roseville High,Roseville Joint Union High,Placer,416.0,110.0,23.0,22.0,22.0,22.0,64.0,58.18
+782,Royal High,Simi Valley Unified,Ventura,456.0,55.0,25.0,25.0,24.0,25.0,44.0,80.0
+783,Ruben S. Ayala High,Chino Valley Unified,San Bernardino,695.0,133.0,25.0,26.0,25.0,25.0,108.0,81.2
+784,Rubidoux High,Jurupa Unified,Riverside,350.0,74.0,17.0,17.0,17.0,18.0,14.0,18.92
+785,S.F. International High,San Francisco Unified,San Francisco,100.0,43.0,13.0,12.0,16.0,15.0,1.0,2.33
+786,Sacramento Charter High,Sacramento City Unified,Sacramento,151.0,144.0,17.0,16.0,17.0,17.0,25.0,17.36
+787,Saddleback High,Santa Ana Unified,Orange,383.0,109.0,18.0,16.0,19.0,18.0,26.0,23.85
+788,Sage Creek High,Carlsbad Unified,San Diego,307.0,103.0,27.0,28.0,27.0,26.0,92.0,89.32
+789,Saint Helena High,Saint Helena Unified,Napa,121.0,28.0,25.0,26.0,22.0,23.0,24.0,85.71
+790,Salinas High,Salinas Union High,Monterey,646.0,137.0,22.0,21.0,21.0,21.0,70.0,51.09
+791,Samueli Academy,Orange County Department of Education,Orange,119.0,26.0,21.0,21.0,20.0,20.0,12.0,46.15
+792,San Benito High,San Benito High,San Benito,744.0,118.0,21.0,20.0,21.0,21.0,52.0,44.07
+793,San Bernardino High,San Bernardino City Unified,San Bernardino,321.0,71.0,20.0,18.0,19.0,19.0,22.0,30.99
+794,San Clemente High,Capistrano Unified,Orange,808.0,310.0,26.0,26.0,25.0,25.0,264.0,85.16
+795,San Diego International Studies,San Diego Unified,San Diego,286.0,99.0,25.0,24.0,23.0,24.0,70.0,70.71
+796,San Diego Science and Technology,San Diego Unified,San Diego,157.0,19.0,21.0,20.0,19.0,20.0,6.0,31.58
+797,San Dieguito HS Academy,San Dieguito Union High,San Diego,478.0,217.0,27.0,27.0,26.0,25.0,181.0,83.41
+798,San Dimas High,Bonita Unified,Los Angeles,324.0,42.0,24.0,23.0,24.0,23.0,27.0,64.29
+799,San Fernando Senior High,Los Angeles Unified,Los Angeles,458.0,75.0,18.0,17.0,18.0,18.0,16.0,21.33
+800,San Gabriel High,Alhambra Unified,Los Angeles,527.0,54.0,21.0,20.0,21.0,21.0,24.0,44.44
+801,San Gorgonio High,San Bernardino City Unified,San Bernardino,450.0,24.0,19.0,19.0,19.0,20.0,8.0,33.33
+802,San Jacinto High,San Jacinto Unified,Riverside,574.0,30.0,19.0,19.0,18.0,18.0,7.0,23.33
+803,San Juan High,San Juan Unified,Sacramento,170.0,32.0,19.0,17.0,18.0,18.0,10.0,31.25
+804,San Juan Hills High,Capistrano Unified,Orange,580.0,199.0,26.0,26.0,25.0,25.0,158.0,79.4
+805,San Leandro High,San Leandro Unified,Alameda,662.0,78.0,22.0,21.0,21.0,22.0,44.0,56.41
+806,San Lorenzo High,San Lorenzo Unified,Alameda,346.0,48.0,20.0,19.0,20.0,19.0,15.0,31.25
+807,San Lorenzo Valley High,San Lorenzo Valley Unified,Santa Cruz,139.0,20.0,26.0,26.0,23.0,25.0,15.0,75.0
+808,San Luis Obispo High,San Luis Coastal Unified,San Luis Obispo,370.0,139.0,26.0,25.0,25.0,24.0,113.0,81.29
+809,San Marcos High,San Marcos Unified,San Diego,748.0,244.0,25.0,24.0,23.0,24.0,172.0,70.49
+810,San Marcos Senior High,Santa Barbara Unified,Santa Barbara,535.0,106.0,25.0,25.0,24.0,25.0,81.0,76.42
+811,San Marin High,Novato Unified,Marin,266.0,107.0,26.0,25.0,25.0,24.0,81.0,75.7
+812,San Marino High,San Marino Unified,Los Angeles,269.0,95.0,28.0,29.0,29.0,27.0,86.0,90.53
+813,San Mateo High,San Mateo Union High,San Mateo,414.0,73.0,28.0,28.0,27.0,27.0,62.0,84.93
+814,San Pasqual High,Escondido Union High,San Diego,518.0,98.0,22.0,20.0,21.0,21.0,48.0,48.98
+815,San Pedro Senior High,Los Angeles Unified,Los Angeles,480.0,49.0,21.0,20.0,20.0,20.0,23.0,46.94
+816,San Rafael High,San Rafael City High,Marin,296.0,84.0,24.0,23.0,23.0,22.0,52.0,61.9
+817,San Ramon Valley High,San Ramon Valley Unified,Contra Costa,502.0,282.0,27.0,27.0,26.0,26.0,244.0,86.52
+818,San Ysidro High,Sweetwater Union High,San Diego,702.0,139.0,18.0,17.0,19.0,18.0,39.0,28.06
+819,Sanger High,Sanger Unified,Fresno,734.0,61.0,21.0,19.0,20.0,20.0,26.0,42.62
+820,Santa Ana High,Santa Ana Unified,Orange,648.0,85.0,17.0,16.0,18.0,18.0,19.0,22.35
+821,Santa Barbara Senior High,Santa Barbara Unified,Santa Barbara,519.0,126.0,25.0,24.0,23.0,23.0,87.0,69.05
+822,Santa Clara High,Santa Clara Unified,Santa Clara,430.0,53.0,26.0,26.0,26.0,25.0,41.0,77.36
+823,Santa Cruz High,Santa Cruz City High,Santa Cruz,268.0,50.0,26.0,25.0,26.0,25.0,44.0,88.0
+824,Santa Fe High,Whittier Union High,Los Angeles,521.0,114.0,21.0,20.0,20.0,20.0,52.0,45.61
+825,Santa Maria High,Santa Maria Joint Union High,Santa Barbara,588.0,93.0,18.0,17.0,19.0,19.0,25.0,26.88
+826,Santa Monica High,Santa Monica-Malibu Unified,Los Angeles,715.0,244.0,27.0,26.0,25.0,25.0,193.0,79.1
+827,Santa Paula High,Santa Paula Unified,Ventura,372.0,126.0,20.0,18.0,19.0,20.0,44.0,34.92
+828,Santa Rosa Academy,Menifee Union Elementary,Riverside,113.0,18.0,24.0,24.0,23.0,23.0,13.0,72.22
+829,Santa Rosa High,Santa Rosa High,Sonoma,458.0,87.0,27.0,25.0,25.0,24.0,71.0,81.61
+830,Santa Susana High,Simi Valley Unified,Ventura,252.0,26.0,28.0,27.0,25.0,26.0,26.0,100.0
+831,Santa Teresa High,East Side Union High,Santa Clara,529.0,67.0,26.0,26.0,25.0,25.0,54.0,80.6
+832,Santa Ynez Valley Union High,Santa Ynez Valley Union High,Santa Barbara,220.0,50.0,26.0,24.0,22.0,22.0,38.0,76.0
+833,Santana High,Grossmont Union High,San Diego,420.0,47.0,21.0,21.0,23.0,21.0,26.0,55.32
+834,Santee Education Complex,Los Angeles Unified,Los Angeles,384.0,24.0,18.0,16.0,17.0,17.0,3.0,12.5
+835,Santiago High,Garden Grove Unified,Orange,533.0,29.0,18.0,18.0,20.0,20.0,10.0,34.48
+836,Santiago High,Corona-Norco Unified,Riverside,813.0,179.0,23.0,22.0,22.0,22.0,111.0,62.01
+837,Saratoga High,Los Gatos-Saratoga Joint Union High,Santa Clara,321.0,121.0,31.0,32.0,31.0,30.0,117.0,96.69
+838,Saugus High,William S. Hart Union High,Los Angeles,546.0,121.0,25.0,23.0,24.0,23.0,91.0,75.21
+839,Savanna High,Anaheim Union High,Orange,482.0,42.0,20.0,20.0,19.0,19.0,16.0,38.1
+840,Schurr High,Montebello Unified,Los Angeles,619.0,40.0,20.0,21.0,21.0,21.0,20.0,50.0
+841,Science Technology Engineering Arts and Mathematics at Legacy High School Complex,Los Angeles Unified,Los Angeles,138.0,46.0,19.0,18.0,19.0,18.0,13.0,28.26
+842,Scotts Valley High,Scotts Valley Unified,Santa Cruz,192.0,60.0,27.0,26.0,25.0,25.0,52.0,86.67
+843,Scripps Ranch High,San Diego Unified,San Diego,542.0,203.0,28.0,28.0,27.0,27.0,183.0,90.15
+844,Seaside High,Monterey Peninsula Unified,Monterey,276.0,34.0,21.0,19.0,20.0,20.0,15.0,44.12
+845,Segerstrom High,Santa Ana Unified,Orange,457.0,480.0,17.0,16.0,18.0,17.0,106.0,22.08
+846,Sequoia High,Sequoia Union High,San Mateo,486.0,122.0,24.0,23.0,23.0,23.0,77.0,63.11
+847,Serra High,San Diego Unified,San Diego,369.0,35.0,23.0,23.0,23.0,23.0,21.0,60.0
+848,Serrano High,Snowline Joint Unified,San Bernardino,444.0,56.0,22.0,21.0,23.0,22.0,34.0,60.71
+849,Shadow Hills High,Desert Sands Unified,Riverside,528.0,34.0,18.0,17.0,17.0,18.0,7.0,20.59
+850,Shafter High,Kern High,Kern,372.0,44.0,21.0,19.0,20.0,20.0,16.0,36.36
+851,Shasta High,Shasta Union High,Shasta,328.0,46.0,27.0,26.0,25.0,25.0,42.0,91.3
+852,Sheldon High,Elk Grove Unified,Sacramento,614.0,82.0,23.0,21.0,22.0,22.0,47.0,57.32
+853,Sherman Oaks Center for Enriched Studies,Los Angeles Unified,Los Angeles,232.0,47.0,25.0,25.0,23.0,24.0,31.0,65.96
+854,Sierra High,Manteca Unified,San Joaquin,333.0,35.0,24.0,23.0,22.0,22.0,26.0,74.29
+855,Sierra Vista High,Baldwin Park Unified,Los Angeles,429.0,108.0,19.0,18.0,19.0,19.0,34.0,31.48
+856,Silver Creek High,East Side Union High,Santa Clara,592.0,50.0,25.0,25.0,26.0,25.0,41.0,82.0
+857,Silverado High,Victor Valley Union High,San Bernardino,546.0,71.0,19.0,18.0,17.0,19.0,18.0,25.35
+858,Simi Valley High,Simi Valley Unified,Ventura,537.0,75.0,23.0,24.0,23.0,23.0,50.0,66.67
+859,Sir Francis Drake High,Tamalpais Union High,Marin,308.0,84.0,28.0,28.0,25.0,25.0,73.0,86.9
+860,Skyline High,Oakland Unified,Alameda,398.0,66.0,22.0,21.0,20.0,20.0,33.0,50.0
+861,SOAR High (Students On Academic Rise),Antelope Valley Union High,Los Angeles,86.0,34.0,23.0,22.0,22.0,21.0,21.0,61.76
+862,Soledad High,Soledad Unified,Monterey,374.0,69.0,18.0,16.0,17.0,18.0,14.0,20.29
+863,Sonoma Valley High,Sonoma Valley Unified,Sonoma,279.0,47.0,25.0,24.0,23.0,23.0,31.0,65.96
+864,Sonora High,Fullerton Joint Union High,Orange,410.0,68.0,24.0,23.0,23.0,23.0,51.0,75.0
+865,Soquel High,Santa Cruz City High,Santa Cruz,269.0,81.0,25.0,23.0,22.0,22.0,50.0,61.73
+866,South East High,Los Angeles Unified,Los Angeles,368.0,152.0,19.0,18.0,17.0,18.0,43.0,28.29
+867,South El Monte High,El Monte Union High,Los Angeles,278.0,57.0,19.0,19.0,19.0,20.0,21.0,36.84
+868,South Gate Senior High,Los Angeles Unified,Los Angeles,528.0,224.0,18.0,17.0,17.0,18.0,52.0,23.21
+869,South High,Kern High,Kern,508.0,31.0,18.0,18.0,20.0,19.0,9.0,29.03
+870,South High,Torrance Unified,Los Angeles,550.0,139.0,25.0,25.0,26.0,25.0,116.0,83.45
+871,South Hills High,Covina-Valley Unified,Los Angeles,401.0,17.0,23.0,23.0,22.0,23.0,10.0,58.82
+872,South Pasadena Senior High,South Pasadena Unified,Los Angeles,369.0,93.0,28.0,27.0,27.0,27.0,78.0,83.87
+873,South San Francisco High,South San Francisco Unified,San Mateo,292.0,20.0,22.0,23.0,25.0,23.0,14.0,70.0
+874,South Tahoe High,Lake Tahoe Unified,El Dorado,239.0,54.0,23.0,22.0,22.0,22.0,32.0,59.26
+875,Southwest High,Central Union High,Imperial,513.0,116.0,18.0,17.0,19.0,19.0,32.0,27.59
+876,Southwest Senior High,Sweetwater Union High,San Diego,482.0,73.0,18.0,17.0,18.0,19.0,21.0,28.77
+877,Stagg Senior High,Stockton Unified,San Joaquin,368.0,18.0,19.0,18.0,19.0,19.0,5.0,27.78
+879,Steele Canyon High,Grossmont Union High,San Diego,511.0,125.0,24.0,23.0,23.0,24.0,94.0,75.2
+880,STEM Academy at Bernstein High,Los Angeles Unified,Los Angeles,124.0,44.0,19.0,19.0,18.0,19.0,15.0,34.09
+881,Stockdale High,Kern High,Kern,550.0,99.0,25.0,25.0,24.0,23.0,70.0,70.71
+882,Stockton Early College Academy,Stockton Unified,San Joaquin,99.0,72.0,23.0,21.0,21.0,20.0,38.0,52.78
+883,Sultana High,Hesperia Unified,San Bernardino,429.0,21.0,21.0,19.0,21.0,21.0,13.0,61.9
+884,Summit High,Fontana Unified,San Bernardino,556.0,512.0,17.0,15.0,17.0,17.0,79.0,15.43
+885,Summit Preparatory Charter High,Sequoia Union High,San Mateo,95.0,43.0,21.0,21.0,20.0,22.0,18.0,41.86
+886,Summit Public School: Rainier,East Side Union High,Santa Clara,105.0,38.0,20.0,20.0,20.0,20.0,15.0,39.47
+887,Summit Public School: Shasta,Jefferson Union High,San Mateo,101.0,49.0,23.0,22.0,21.0,22.0,34.0,69.39
+888,Summit Public School: Tahoma,Santa Clara County Office of Education,Santa Clara,96.0,31.0,22.0,22.0,21.0,22.0,15.0,48.39
+889,Sun Valley Magnet,Los Angeles Unified,Los Angeles,71.0,29.0,18.0,17.0,19.0,19.0,7.0,24.14
+890,Sunny Hills High,Fullerton Joint Union High,Orange,563.0,119.0,26.0,27.0,27.0,26.0,99.0,83.19
+891,Sunnyside High,Fresno Unified,Fresno,620.0,120.0,18.0,17.0,17.0,18.0,26.0,21.67
+892,Susan Miller Dorsey Senior High,Los Angeles Unified,Los Angeles,230.0,48.0,16.0,15.0,16.0,15.0,4.0,8.33
+893,Sutter High,Sutter Union High,Sutter,171.0,22.0,25.0,22.0,24.0,23.0,17.0,77.27
+894,Sweetwater High,Sweetwater Union High,San Diego,732.0,96.0,20.0,19.0,19.0,20.0,38.0,39.58
+895,Sylmar Charter High,Los Angeles Unified,Los Angeles,361.0,45.0,20.0,18.0,19.0,19.0,15.0,33.33
+896,Synergy Quantum Academy,Los Angeles Unified,Los Angeles,125.0,15.0,19.0,19.0,20.0,19.0,6.0,40.0
+897,Taft Charter High,Los Angeles Unified,Los Angeles,498.0,80.0,24.0,23.0,22.0,23.0,54.0,67.5
+898,Taft Union High,Taft Union High,Kern,204.0,35.0,21.0,18.0,19.0,19.0,11.0,31.43
+899,Tahoe Truckee High,Tahoe-Truckee Unified,Placer,173.0,45.0,26.0,26.0,25.0,25.0,39.0,86.67
+900,Tahquitz High,Hemet Unified,Riverside,386.0,28.0,19.0,17.0,18.0,19.0,7.0,25.0
+901,Tamalpais High,Tamalpais Union High,Marin,376.0,145.0,29.0,29.0,26.0,27.0,135.0,93.1
+902,Technology High,Cotati-Rohnert Park Unified,Sonoma,76.0,24.0,27.0,27.0,26.0,25.0,20.0,83.33
+903,Temecula Preparatory,Temecula Valley Unified,Riverside,78.0,20.0,26.0,25.0,22.0,23.0,15.0,75.0
+904,Temecula Valley High,Temecula Valley Unified,Riverside,642.0,215.0,23.0,22.0,22.0,23.0,133.0,61.86
+905,Temescal Canyon High,Lake Elsinore Unified,Riverside,496.0,63.0,21.0,20.0,20.0,20.0,30.0,47.62
+906,Temple City High,Temple City Unified,Los Angeles,492.0,90.0,27.0,27.0,27.0,26.0,80.0,88.89
+907,Templeton High,Templeton Unified,San Luis Obispo,171.0,69.0,24.0,24.0,22.0,23.0,50.0,72.46
+908,Terra Linda High,San Rafael City High,Marin,300.0,56.0,25.0,24.0,23.0,23.0,39.0,69.64
+909,Terra Nova High,Jefferson Union High,San Mateo,208.0,23.0,27.0,26.0,25.0,26.0,19.0,82.61
+910,Tesoro High,Capistrano Unified,Orange,668.0,259.0,26.0,26.0,25.0,25.0,209.0,80.69
+911,The O'Farrell Charter,San Diego Unified,San Diego,125.0,97.0,19.0,18.0,19.0,20.0,27.0,27.84
+912,Theodore Roosevelt Senior High,Los Angeles Unified,Los Angeles,306.0,68.0,16.0,15.0,16.0,16.0,9.0,13.24
+913,Thomas Downey High,Modesto City High,Stanislaus,479.0,69.0,21.0,20.0,21.0,21.0,31.0,44.93
+914,Thomas Jefferson Senior High,Los Angeles Unified,Los Angeles,116.0,50.0,15.0,14.0,16.0,16.0,1.0,2.0
+915,Thousand Oaks High,Conejo Valley Unified,Ventura,528.0,119.0,27.0,26.0,26.0,26.0,103.0,86.55
+916,Tokay High,Lodi Unified,San Joaquin,490.0,92.0,21.0,20.0,22.0,22.0,45.0,48.91
+917,Torrance High,Torrance Unified,Los Angeles,509.0,105.0,24.0,23.0,23.0,23.0,71.0,67.62
+918,Torrey Pines High,San Dieguito Union High,San Diego,627.0,355.0,28.0,28.0,28.0,28.0,326.0,91.83
+919,Trabuco Hills High,Saddleback Valley Unified,Orange,669.0,152.0,26.0,26.0,26.0,25.0,126.0,82.89
+920,Tracy High,Tracy Joint Unified,San Joaquin,455.0,60.0,24.0,24.0,23.0,23.0,41.0,68.33
+921,Tranquillity High,Golden Plains Unified,Fresno,120.0,19.0,15.0,14.0,15.0,15.0,0.0,0.0
+922,Trinity High,Trinity Alps Unified,Trinity,91.0,15.0,24.0,24.0,23.0,23.0,11.0,73.33
+923,Troy High,Fullerton Joint Union High,Orange,624.0,178.0,30.0,30.0,30.0,29.0,170.0,95.51
+924,Tulare Union High,Tulare Joint Union High,Tulare,382.0,66.0,21.0,19.0,21.0,20.0,28.0,42.42
+925,Tulare Western High,Tulare Joint Union High,Tulare,417.0,93.0,20.0,18.0,18.0,19.0,29.0,31.18
+926,Tulelake High,Tulelake Basin Joint Unified,Modoc,25.0,15.0,18.0,15.0,17.0,18.0,1.0,6.67
+927,Turlock High,Turlock Unified,Stanislaus,543.0,53.0,24.0,22.0,22.0,22.0,36.0,67.92
+928,Tustin High,Tustin Unified,Orange,577.0,164.0,21.0,18.0,20.0,20.0,70.0,42.68
+929,UCLA Community K-12,Los Angeles Unified,Los Angeles,91.0,21.0,18.0,16.0,18.0,18.0,4.0,19.05
+930,Ukiah High,Ukiah Unified,Mendocino,365.0,22.0,25.0,23.0,23.0,22.0,15.0,68.18
+931,Ulysses S. Grant Senior High,Los Angeles Unified,Los Angeles,432.0,41.0,21.0,21.0,21.0,21.0,22.0,53.66
+932,Union Mine High,El Dorado Union High,El Dorado,259.0,48.0,24.0,23.0,22.0,22.0,32.0,66.67
+933,University City High,San Diego Unified,San Diego,459.0,115.0,27.0,27.0,26.0,26.0,101.0,87.83
+934,University High,Fresno Unified,Fresno,120.0,86.0,28.0,28.0,25.0,26.0,79.0,91.86
+935,University High,Irvine Unified,Orange,633.0,233.0,29.0,29.0,29.0,28.0,219.0,93.99
+936,University High School Charter,Los Angeles Unified,Los Angeles,336.0,58.0,21.0,21.0,20.0,20.0,25.0,43.1
+937,University Preparatory,Shasta Union High,Shasta,127.0,24.0,28.0,27.0,27.0,27.0,21.0,87.5
+938,University Preparatory,Victor Valley Union High,San Bernardino,164.0,43.0,22.0,22.0,22.0,21.0,24.0,55.81
+939,University Preparatory Academy Charter,Santa Clara County Office of Education,Santa Clara,99.0,33.0,27.0,28.0,27.0,27.0,27.0,81.82
+940,University Preparatory Value High,Los Angeles Unified,Los Angeles,113.0,34.0,18.0,16.0,18.0,18.0,7.0,20.59
+941,Upland High,Upland Unified,San Bernardino,764.0,62.0,21.0,21.0,21.0,21.0,30.0,48.39
+942,Upper Lake High,Upper Lake Unified,Lake,74.0,18.0,18.0,16.0,17.0,17.0,4.0,22.22
+943,Vacaville High,Vacaville Unified,Solano,431.0,58.0,22.0,22.0,22.0,22.0,34.0,58.62
+944,Valencia High,William S. Hart Union High,Los Angeles,714.0,163.0,25.0,25.0,25.0,24.0,129.0,79.14
+945,Valencia High,Placentia-Yorba Linda Unified,Orange,663.0,173.0,23.0,22.0,24.0,23.0,95.0,54.91
+946,Valhalla High,Grossmont Union High,San Diego,565.0,85.0,25.0,24.0,24.0,24.0,67.0,78.82
+947,Valley Academy of Arts and Sciences,Los Angeles Unified,Los Angeles,262.0,30.0,21.0,20.0,19.0,20.0,10.0,33.33
+948,Valley Center High,Valley Center-Pauma Unified,San Diego,267.0,50.0,22.0,21.0,21.0,22.0,25.0,50.0
+949,Valley High,Elk Grove Unified,Sacramento,369.0,70.0,19.0,18.0,19.0,20.0,20.0,28.57
+950,Valley High,Santa Ana Unified,Orange,466.0,66.0,18.0,17.0,18.0,18.0,14.0,21.21
+951,Valley International Preparatory High,Los Angeles Unified,Los Angeles,71.0,20.0,26.0,22.0,20.0,22.0,13.0,65.0
+952,Valley View High,Moreno Valley Unified,Riverside,595.0,36.0,22.0,21.0,21.0,21.0,16.0,44.44
+953,Valor Academy High,Los Angeles Unified,Los Angeles,122.0,82.0,15.0,15.0,17.0,17.0,8.0,9.76
+954,Van Nuys Senior High,Los Angeles Unified,Los Angeles,535.0,97.0,26.0,26.0,25.0,25.0,80.0,82.47
+955,Vanden High,Travis Unified,Solano,367.0,40.0,25.0,23.0,23.0,24.0,28.0,70.0
+956,Vaughn Next Century Learning Center,Los Angeles Unified,Los Angeles,157.0,35.0,18.0,17.0,17.0,18.0,7.0,20.0
+957,Venice Senior High,Los Angeles Unified,Los Angeles,398.0,96.0,23.0,22.0,22.0,22.0,57.0,59.38
+958,Ventura High,Ventura Unified,Ventura,480.0,88.0,24.0,22.0,22.0,22.0,59.0,67.05
+959,Venture Academy,San Joaquin County Office of Education,San Joaquin,266.0,22.0,18.0,17.0,17.0,18.0,4.0,18.18
+960,Victor Valley High,Victor Valley Union High,San Bernardino,425.0,39.0,18.0,17.0,19.0,18.0,8.0,20.51
+961,Villa Park High,Orange Unified,Orange,584.0,85.0,25.0,26.0,25.0,25.0,70.0,82.35
+962,Vintage High,Napa Valley Unified,Napa,396.0,59.0,22.0,20.0,21.0,21.0,32.0,54.24
+963,Vista del Lago High,Folsom-Cordova Unified,Sacramento,441.0,107.0,26.0,27.0,26.0,26.0,93.0,86.92
+964,Vista del Lago High,Moreno Valley Unified,Riverside,450.0,121.0,18.0,17.0,18.0,18.0,23.0,19.01
+965,Vista High,Vista Unified,San Diego,545.0,60.0,23.0,21.0,21.0,22.0,31.0,51.67
+966,Vista Murrieta High,Murrieta Valley Unified,Riverside,884.0,165.0,24.0,22.0,23.0,22.0,111.0,67.27
+967,Wallenberg (Raoul) Traditional High,San Francisco Unified,San Francisco,168.0,33.0,23.0,23.0,22.0,23.0,22.0,66.67
+968,Walnut High,Walnut Valley Unified,Los Angeles,666.0,128.0,27.0,27.0,28.0,27.0,111.0,86.72
+969,Warren (Earl) High,Downey Unified,Los Angeles,845.0,48.0,23.0,23.0,23.0,22.0,32.0,66.67
+970,Wasco High,Wasco Union High,Kern,391.0,71.0,19.0,18.0,20.0,20.0,24.0,33.8
+971,Washington (George) High,San Francisco Unified,San Francisco,489.0,94.0,21.0,21.0,22.0,22.0,55.0,58.51
+972,Washington High,Washington Unified,Fresno,240.0,121.0,16.0,15.0,16.0,16.0,10.0,8.26
+973,Washington High,Fremont Unified,Alameda,457.0,65.0,28.0,28.0,28.0,27.0,60.0,92.31
+974,Watsonville High,Pajaro Valley Unified,Santa Cruz,455.0,110.0,17.0,16.0,18.0,18.0,20.0,18.18
+975,WESM Health/Sports Medicine,Los Angeles Unified,Los Angeles,182.0,35.0,18.0,17.0,18.0,18.0,6.0,17.14
+976,West Campus,Sacramento City Unified,Sacramento,194.0,46.0,25.0,24.0,23.0,23.0,34.0,73.91
+977,West Covina High,West Covina Unified,Los Angeles,514.0,25.0,24.0,24.0,24.0,23.0,16.0,64.0
+978,West High,Kern High,Kern,537.0,51.0,20.0,18.0,20.0,20.0,22.0,43.14
+979,West High,Torrance Unified,Los Angeles,495.0,123.0,25.0,26.0,25.0,25.0,97.0,78.86
+980,West Hills High,Grossmont Union High,San Diego,421.0,49.0,25.0,24.0,23.0,23.0,38.0,77.55
+981,West Ranch High,William S. Hart Union High,Los Angeles,655.0,182.0,27.0,27.0,26.0,26.0,156.0,85.71
+982,West Valley High,Anderson Union High,Shasta,214.0,23.0,24.0,21.0,21.0,23.0,16.0,69.57
+983,West Valley High,Hemet Unified,Riverside,437.0,72.0,19.0,18.0,18.0,19.0,25.0,34.72
+984,Western Center Academy,Hemet Unified,Riverside,67.0,21.0,26.0,25.0,23.0,24.0,16.0,76.19
+985,Western High,Anaheim Union High,Orange,498.0,54.0,19.0,18.0,20.0,20.0,17.0,31.48
+986,Western Sierra Collegiate Academy,Rocklin Unified,Placer,119.0,32.0,26.0,24.0,21.0,24.0,23.0,71.88
+987,Westlake High,Conejo Valley Unified,Ventura,547.0,146.0,27.0,28.0,26.0,26.0,126.0,86.3
+988,Westminster High,Huntington Beach Union High,Orange,628.0,48.0,22.0,21.0,23.0,22.0,30.0,62.5
+989,Westmont High,Campbell Union High,Santa Clara,354.0,71.0,28.0,28.0,25.0,26.0,60.0,84.51
+990,Westmoor High,Jefferson Union High,San Mateo,395.0,28.0,24.0,25.0,25.0,24.0,25.0,89.29
+991,Westview High,Poway Unified,San Diego,596.0,212.0,28.0,29.0,28.0,27.0,193.0,91.04
+992,Wheatland Union High,Wheatland Union High,Yuba,166.0,18.0,23.0,21.0,21.0,22.0,10.0,55.56
+993,Whitney (Gretchen) High,ABC Unified,Los Angeles,165.0,55.0,31.0,31.0,30.0,29.0,54.0,98.18
+994,Whitney High,Rocklin Unified,Placer,458.0,112.0,26.0,25.0,25.0,25.0,98.0,87.5
+995,Whittier High,Whittier Union High,Los Angeles,432.0,60.0,18.0,18.0,19.0,18.0,16.0,26.67
+996,Will C. Wood High,Vacaville Unified,Solano,329.0,30.0,24.0,23.0,24.0,23.0,23.0,76.67
+997,William C. Overfelt High,East Side Union High,Santa Clara,339.0,106.0,17.0,16.0,18.0,18.0,20.0,18.87
+998,William J. (Pete) Knight High,Antelope Valley Union High,Los Angeles,668.0,52.0,20.0,18.0,19.0,19.0,21.0,40.38
+999,William S. Hart High,William S. Hart Union High,Los Angeles,540.0,110.0,26.0,25.0,24.0,24.0,91.0,82.73
+1000,Willow Glen High,San Jose Unified,Santa Clara,407.0,55.0,26.0,25.0,24.0,25.0,42.0,76.36
+1001,Wilmer Amina Carter High,Rialto Unified,San Bernardino,583.0,34.0,18.0,18.0,18.0,18.0,10.0,29.41
+1002,Wilson High,Long Beach Unified,Los Angeles,818.0,75.0,24.0,23.0,22.0,22.0,47.0,62.67
+1003,Windsor High,Windsor Unified,Sonoma,394.0,116.0,23.0,22.0,21.0,22.0,70.0,60.34
+1004,Wonderful College Prep Academy,Kern County Office of Education,Kern,128.0,126.0,18.0,18.0,18.0,18.0,35.0,27.78
+1005,Woodbridge High,Irvine Unified,Orange,616.0,174.0,27.0,27.0,27.0,26.0,153.0,87.93
+1006,Woodcreek High,Roseville Joint Union High,Placer,537.0,132.0,25.0,24.0,24.0,25.0,110.0,83.33
+1007,Woodlake High,Woodlake Unified,Tulare,151.0,30.0,18.0,18.0,19.0,18.0,8.0,26.67
+1008,Woodland Senior High,Woodland Joint Unified,Yolo,343.0,59.0,19.0,18.0,18.0,19.0,22.0,37.29
+1009,Woodrow Wilson Senior High,Los Angeles Unified,Los Angeles,317.0,68.0,18.0,17.0,17.0,18.0,11.0,16.18
+1010,Woodside High,Sequoia Union High,San Mateo,441.0,106.0,24.0,23.0,23.0,23.0,75.0,70.75
+1011,Ygnacio Valley High,Mt. Diablo Unified,Contra Costa,271.0,18.0,23.0,21.0,22.0,22.0,9.0,50.0
+1012,Yorba Linda High,Placentia-Yorba Linda Unified,Orange,448.0,104.0,25.0,24.0,25.0,24.0,83.0,79.81
+1013,Yosemite High,Yosemite Unified,Madera,135.0,33.0,22.0,21.0,22.0,22.0,19.0,57.58
+1014,Yreka High,Yreka Union High,Siskiyou,138.0,38.0,23.0,20.0,21.0,21.0,20.0,52.63
+1015,Yuba City High,Yuba City Unified,Sutter,394.0,56.0,23.0,21.0,22.0,22.0,35.0,62.5
+1016,Yucaipa High,Yucaipa-Calimesa Joint Unified,San Bernardino,628.0,61.0,24.0,22.0,22.0,22.0,40.0,65.57
